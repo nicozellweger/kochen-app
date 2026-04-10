@@ -1,0 +1,55 @@
+{
+  "id": "smashed-burger",
+  "titel": "Smashed Burger mit Brioche Buns",
+  "kategorie": "Hauptgang",
+  "tags": ["grill", "plancha", "fleisch", "burger", "amerikanisch"],
+  "favorit": true,
+  "portionen": 4,
+  "portionenEinheit": "Burger",
+  "aufwand": "mittel",
+  "zeit": {
+    "vorbereitung": 20,
+    "gesamt": 40
+  },
+  "zutaten": [
+    {
+      "gruppe": "Patties",
+      "items": [
+        { "menge": 600, "einheit": "g", "name": "Rindshackfleisch (20% Fett)", "abteilung": "Fleisch & Fisch" },
+        { "menge": 1, "einheit": "TL", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "TL", "name": "Pfeffer", "abteilung": "Gewürze & Öle" }
+      ]
+    },
+    {
+      "gruppe": "Buns & Belag",
+      "items": [
+        { "menge": 4, "einheit": "Stück", "name": "Brioche Buns", "abteilung": "Brot & Backwaren" },
+        { "menge": 4, "einheit": "Stück", "name": "Cheddar Scheiben", "abteilung": "Milchprodukte" },
+        { "menge": 1, "einheit": "Stück", "name": "Weisse Zwiebel", "abteilung": "Gemüse & Früchte" },
+        { "menge": 4, "einheit": "Stück", "name": "Cornichons (in Scheiben)", "abteilung": "Sonstiges" },
+        { "menge": 2, "einheit": "EL", "name": "American Mustard", "abteilung": "Gewürze & Öle" },
+        { "menge": 2, "einheit": "EL", "name": "Ketchup", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "EL", "name": "Butter (für Buns)", "abteilung": "Milchprodukte" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Hackfleisch in 8 gleichmässige Bällchen (ca. 75g) formen, nicht würzen.",
+    "Plancha oder Gusseisenpfanne auf höchste Stufe erhitzen — richtig heiss.",
+    "Zwiebel in dünne Ringe schneiden.",
+    "Fleischbällchen auf die heisse Platte legen, sofort mit Salz und Pfeffer würzen.",
+    "Mit einem breiten Spachtel/Burger-Press flach drücken (richtig fest, Smash!). Nicht mehr bewegen.",
+    "Ca. 2 Min. braten bis die Unterseite dunkelbraune Kruste hat.",
+    "Wenden, sofort Cheddar drauflegen. Weitere 1-2 Min. braten.",
+    "Brioche Buns aufschneiden, Innenseiten auf der Plancha kurz toasten.",
+    "Buns mit Saucen bestreichen, je 2 Patties stapeln, Zwiebeln und Cornichons drauf.",
+    "Sofort servieren."
+  ],
+  "tipps": [
+    "Das Fleisch NICHT vorwürzen — Salz erst beim Smash, sonst wird die Textur wurstig.",
+    "Je heisser die Platte, desto besser die Maillard-Kruste.",
+    "Dünne Patties = maximale Kruste-zu-Fleisch-Ratio. Das ist der Punkt.",
+    "Selbstgemachte Brioche Buns (siehe separates Rezept) machen den Unterschied."
+  ],
+  "notizen": "Am besten auf der Outdoorchef Plancha. Funktioniert aber auch in der Gusseisenpfanne drinnen."
+}

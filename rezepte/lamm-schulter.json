@@ -1,0 +1,50 @@
+{
+  "id": "lamm-schulter",
+  "titel": "Lamm-Schulter vom Grill (Low & Slow)",
+  "kategorie": "Hauptgang",
+  "tags": ["grill", "fleisch", "lamm", "low-and-slow", "rotisserie"],
+  "favorit": false,
+  "portionen": 6,
+  "portionenEinheit": "Portionen",
+  "aufwand": "aufwändig",
+  "zeit": {
+    "vorbereitung": 20,
+    "gesamt": 300
+  },
+  "zutaten": [
+    {
+      "gruppe": "Lamm",
+      "items": [
+        { "menge": 1.5, "einheit": "kg", "name": "Lammschulter (mit Knochen)", "abteilung": "Fleisch & Fisch" },
+        { "menge": 3, "einheit": "EL", "name": "Olivenöl", "abteilung": "Gewürze & Öle" },
+        { "menge": 4, "einheit": "Stück", "name": "Knoblauchzehen", "abteilung": "Gemüse & Früchte" },
+        { "menge": 2, "einheit": "Zweig", "name": "Rosmarin", "abteilung": "Gemüse & Früchte" },
+        { "menge": 2, "einheit": "Zweig", "name": "Thymian", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "Stück", "name": "Zitrone (Saft + Abrieb)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "EL", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "TL", "name": "Schwarzer Pfeffer", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "TL", "name": "Kreuzkümmel (gemahlen)", "abteilung": "Gewürze & Öle" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Knoblauch fein hacken, mit Olivenöl, Kräutern, Zitronensaft/-abrieb und Gewürzen zu einer Marinade vermischen.",
+    "Lammschulter rundherum einschneiden (ca. 1 cm tief), Marinade einmassieren.",
+    "Mindestens 2 Stunden marinieren, besser über Nacht im Kühlschrank.",
+    "1 Stunde vor dem Grillieren aus dem Kühlschrank nehmen.",
+    "Grill auf indirekte Hitze einrichten, ca. 140°C. Backburner ideal.",
+    "Optional: Auf die Rotisserie spiessen.",
+    "Typhur-Sonde einsetzen. Grillen bis Kerntemperatur 85-90°C (Pull-Temperatur).",
+    "Dauert ca. 3.5-4.5 Stunden — Geduld ist hier alles.",
+    "Das Fleisch sollte butterzart sein und vom Knochen fallen.",
+    "15 Min. ruhen lassen, dann mit zwei Gabeln zerzupfen.",
+    "Mit Zitronensaft beträufeln und servieren."
+  ],
+  "tipps": [
+    "Low & Slow ist der Schlüssel — nicht über 150°C gehen.",
+    "Rotisserie liefert die gleichmässigste Bräunung.",
+    "Innere Temperatur 85-90°C klingt viel, aber bei dieser Methode wird das Kollagen komplett abgebaut.",
+    "Passt super zu Fladenbrot, Hummus und einem einfachen Salat."
+  ],
+  "notizen": "Braucht Zeit, aber die Arbeit macht der Grill. Perfekt für entspannte Nachmittage mit Gästen."
+}

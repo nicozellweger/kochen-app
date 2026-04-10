@@ -1,0 +1,47 @@
+{
+  "id": "baguette",
+  "titel": "Baguette — Overnight Cold Proof",
+  "kategorie": "Brot & Gebäck",
+  "tags": ["backen", "hefeteig", "overnight", "französisch", "brot"],
+  "favorit": false,
+  "portionen": 2,
+  "portionenEinheit": "Baguettes",
+  "aufwand": "mittel",
+  "zeit": {
+    "vorbereitung": 30,
+    "gesamt": 900
+  },
+  "zutaten": [
+    {
+      "gruppe": "Teig",
+      "items": [
+        { "menge": 500, "einheit": "g", "name": "Weissmehl (Type 550 oder Zopfmehl)", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 350, "einheit": "ml", "name": "Wasser (lauwarm)", "abteilung": "Sonstiges" },
+        { "menge": 10, "einheit": "g", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 3, "einheit": "g", "name": "Frischhefe", "abteilung": "Grundnahrungsmittel" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Mehl und Hefe in einer grossen Schüssel mischen (Hefe nicht direkt aufs Salz).",
+    "Wasser dazugiessen, mit einer Hand oder Teigkarte zu einem shaggy Teig vermischen.",
+    "10 Min. ruhen lassen (Autolyse), dann Salz einkneten.",
+    "Teig 10 Min. kneten oder slap-and-fold bis er glatt und dehnbar ist.",
+    "Zugedeckt 1 Stunde bei Raumtemperatur gehen lassen.",
+    "Stretch & Fold: Teig 4x von den Seiten zur Mitte falten. 30 Min. warten. Nochmals wiederholen.",
+    "Teig abgedeckt über Nacht (12-16 Std.) in den Kühlschrank stellen.",
+    "Am nächsten Tag: Teig vorsichtig auf bemehlte Fläche stürzen, halbieren.",
+    "Jede Hälfte sanft zu einem Baguette formen (ca. 40 cm) — nicht entgasen!",
+    "Auf ein bemehltes Tuch oder Baguette-Blech legen, 45-60 Min. aufgehen lassen.",
+    "Backofen auf 240°C vorheizen. Wenn vorhanden: Backstein und Dampfschale.",
+    "Baguettes 3x diagonal einschneiden (Lame oder scharfes Messer).",
+    "Mit Dampf einschliessen und ca. 22-25 Min. backen bis goldbraun und hohl klingend."
+  ],
+  "tipps": [
+    "Wenig Hefe + lange kalte Gare = maximaler Geschmack.",
+    "Dampf in den ersten 10 Min. ist entscheidend für die Kruste.",
+    "Teig soll feucht sein (70% Hydration) — klebt am Anfang, wird mit Stretch & Fold handhabbar.",
+    "Combi-Steamer ist perfekt: 240°C, Dampf auf Maximum für die ersten 10 Min."
+  ],
+  "notizen": "Direkte Methode mit Overnight Cold Proof. Wenig Aufwand, viel Geschmack."
+}

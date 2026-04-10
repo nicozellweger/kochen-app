@@ -1,0 +1,56 @@
+{
+  "id": "butterzopf",
+  "titel": "Butterzopf",
+  "kategorie": "Brot & Gebäck",
+  "tags": ["backen", "hefeteig", "overnight", "sonntagsklassiker"],
+  "favorit": true,
+  "portionen": 1,
+  "portionenEinheit": "Zopf (ca. 800g)",
+  "aufwand": "mittel",
+  "zeit": {
+    "vorbereitung": 30,
+    "gesamt": 780
+  },
+  "zutaten": [
+    {
+      "gruppe": "Teig",
+      "items": [
+        { "menge": 500, "einheit": "g", "name": "Weissmehl", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1.5, "einheit": "TL", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 40, "einheit": "g", "name": "Zucker", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 10, "einheit": "g", "name": "Frischhefe", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 80, "einheit": "g", "name": "Butter (weich)", "abteilung": "Milchprodukte" },
+        { "menge": 3, "einheit": "dl", "name": "Milch (lauwarm)", "abteilung": "Milchprodukte" }
+      ]
+    },
+    {
+      "gruppe": "Zum Bestreichen",
+      "items": [
+        { "menge": 1, "einheit": "Stück", "name": "Eigelb", "abteilung": "Milchprodukte" },
+        { "menge": 1, "einheit": "EL", "name": "Milch", "abteilung": "Milchprodukte" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Mehl und Salz in einer grossen Schüssel mischen.",
+    "Hefe und Zucker in lauwarmer Milch auflösen, 5 Min. stehen lassen.",
+    "Milch-Hefe-Gemisch zum Mehl geben und zu einem Teig kneten.",
+    "Weiche Butter portionenweise einkneten, bis der Teig glatt und elastisch ist (ca. 10 Min.).",
+    "Teig zugedeckt 1 Stunde bei Raumtemperatur aufgehen lassen.",
+    "Teig kurz zusammenstossen, in Folie wickeln und über Nacht (mind. 8 Std.) im Kühlschrank lagern.",
+    "Am nächsten Morgen: Teig 30 Min. bei Raumtemperatur akklimatisieren lassen.",
+    "Teig halbieren, zwei gleichmässige Stränge von ca. 50 cm Länge formen.",
+    "Stränge oben zusammendrücken und zu einem Zopf flechten.",
+    "Auf ein mit Backpapier belegtes Blech legen, 45-60 Min. aufgehen lassen.",
+    "Backofen auf 180°C Ober-/Unterhitze vorheizen.",
+    "Zopf mit Eigelb-Milch-Gemisch bestreichen.",
+    "Ca. 35-40 Min. backen bis goldbraun. Bei Bedarf mit Alufolie abdecken."
+  ],
+  "tipps": [
+    "Overnight-Gare im Kühlschrank entwickelt mehr Geschmack als direktes Backen.",
+    "Teig sollte beim Kneten den Fenstertest bestehen — dünn ausziehbar ohne zu reissen.",
+    "Eigelb mit etwas Milch verdünnt ergibt einen gleichmässigeren Glanz.",
+    "Kerntemperatur ca. 90°C = perfekt durchgebacken."
+  ],
+  "notizen": "Nicos Sonntagsklassiker. Funktioniert am besten wenn der Teig am Samstagabend vorbereitet wird."
+}

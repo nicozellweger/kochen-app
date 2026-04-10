@@ -1,0 +1,51 @@
+{
+  "id": "cafe-de-paris-butter",
+  "titel": "Café de Paris Butter",
+  "kategorie": "Sauce & Dip",
+  "tags": ["grill", "butter", "klassiker", "steak"],
+  "favorit": true,
+  "portionen": 8,
+  "portionenEinheit": "Portionen",
+  "aufwand": "einfach",
+  "zeit": {
+    "vorbereitung": 15,
+    "gesamt": 135
+  },
+  "zutaten": [
+    {
+      "gruppe": "Butter",
+      "items": [
+        { "menge": 250, "einheit": "g", "name": "Butter (weich)", "abteilung": "Milchprodukte" },
+        { "menge": 2, "einheit": "TL", "name": "Dijon-Senf", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "EL", "name": "Kapern (fein gehackt)", "abteilung": "Sonstiges" },
+        { "menge": 2, "einheit": "Stück", "name": "Sardellen (fein gehackt)", "abteilung": "Fleisch & Fisch" },
+        { "menge": 2, "einheit": "Stück", "name": "Knoblauchzehen (gepresst)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 2, "einheit": "EL", "name": "Petersilie (fein gehackt)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "EL", "name": "Schnittlauch (fein geschnitten)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "TL", "name": "Estragon (fein gehackt)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "TL", "name": "Paprikapulver (edelsüss)", "abteilung": "Gewürze & Öle" },
+        { "menge": 0.5, "einheit": "TL", "name": "Currypulver", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "EL", "name": "Cognac oder Brandy", "abteilung": "Getränke" },
+        { "menge": 1, "einheit": "Prise", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Pfeffer", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "TL", "name": "Zitronensaft", "abteilung": "Gemüse & Früchte" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Weiche Butter in eine Schüssel geben und mit einer Gabel cremig rühren.",
+    "Alle Kräuter fein hacken, Kapern und Sardellen fein hacken.",
+    "Sämtliche Zutaten zur Butter geben und gut vermischen.",
+    "Abschmecken — soll kräftig gewürzt sein, die kalte Butter dämpft die Aromen.",
+    "Butter auf Frischhaltefolie geben, zu einer Rolle formen (ca. 4 cm Durchmesser).",
+    "Mindestens 2 Stunden im Kühlschrank fest werden lassen.",
+    "In ca. 1 cm dicke Scheiben schneiden und auf das heisse Steak legen."
+  ],
+  "tipps": [
+    "Lässt sich perfekt einfrieren — hält 2-3 Monate.",
+    "Etwas mehr Cognac schadet nie.",
+    "Auch super auf Ofenkartoffeln oder zu gegrilltem Gemüse.",
+    "Die Sardellen schmeckt man nicht raus, sie bringen aber die nötige Umami-Tiefe."
+  ],
+  "notizen": "Klassiker zum Entrecôte. Immer eine Rolle im Tiefkühler haben."
+}

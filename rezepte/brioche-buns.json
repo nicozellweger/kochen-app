@@ -1,0 +1,55 @@
+{
+  "id": "brioche-buns",
+  "titel": "Brioche Burger Buns",
+  "kategorie": "Brot & Gebäck",
+  "tags": ["backen", "hefeteig", "burger", "brioche"],
+  "favorit": false,
+  "portionen": 8,
+  "portionenEinheit": "Buns",
+  "aufwand": "mittel",
+  "zeit": {
+    "vorbereitung": 30,
+    "gesamt": 210
+  },
+  "zutaten": [
+    {
+      "gruppe": "Teig",
+      "items": [
+        { "menge": 500, "einheit": "g", "name": "Weissmehl", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 60, "einheit": "g", "name": "Zucker", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 8, "einheit": "g", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 10, "einheit": "g", "name": "Frischhefe", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 3, "einheit": "Stück", "name": "Eier", "abteilung": "Milchprodukte" },
+        { "menge": 100, "einheit": "ml", "name": "Milch (lauwarm)", "abteilung": "Milchprodukte" },
+        { "menge": 80, "einheit": "g", "name": "Butter (weich)", "abteilung": "Milchprodukte" }
+      ]
+    },
+    {
+      "gruppe": "Zum Bestreichen",
+      "items": [
+        { "menge": 1, "einheit": "Stück", "name": "Eigelb", "abteilung": "Milchprodukte" },
+        { "menge": 1, "einheit": "EL", "name": "Milch", "abteilung": "Milchprodukte" },
+        { "menge": 2, "einheit": "EL", "name": "Sesam (optional)", "abteilung": "Grundnahrungsmittel" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Mehl, Zucker und Hefe mischen. Eier und lauwarme Milch dazugeben.",
+    "Kneten bis ein glatter Teig entsteht (ca. 8 Min.).",
+    "Salz einkneten, dann weiche Butter portionenweise einarbeiten.",
+    "Weiterkneten bis der Teig seidig und elastisch ist (Fenstertest).",
+    "Zugedeckt 1.5 Stunden bei Raumtemperatur gehen lassen (Volumen verdoppelt).",
+    "Teig in 8 gleichmässige Stücke teilen (ca. 95g pro Stück).",
+    "Jedes Stück rund schleifen und auf ein Blech mit Backpapier setzen (Abstand!).",
+    "Zugedeckt nochmals 45-60 Min. gehen lassen.",
+    "Backofen auf 175°C Ober-/Unterhitze vorheizen.",
+    "Mit Eigelb-Milch bestreichen, optional mit Sesam bestreuen.",
+    "Ca. 15-18 Min. backen bis goldbraun."
+  ],
+  "tipps": [
+    "Butter wirklich erst einarbeiten wenn der Teig schon gut entwickelt ist.",
+    "Buns nicht zu dunkel backen — sie werden noch auf dem Grill getoastet.",
+    "Lassen sich perfekt einfrieren und bei Bedarf auftauen."
+  ],
+  "notizen": "Selbstgemachte Buns für die Smashed Burgers. Grosser Unterschied zu Gekauften."
+}

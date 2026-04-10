@@ -1,0 +1,42 @@
+{
+  "id": "bacon-wrapped-green-beans",
+  "titel": "Bacon-Wrapped Green Beans",
+  "kategorie": "Beilage",
+  "tags": ["grill", "beilage", "einfach", "bacon"],
+  "favorit": false,
+  "portionen": 4,
+  "portionenEinheit": "Portionen",
+  "aufwand": "einfach",
+  "zeit": {
+    "vorbereitung": 15,
+    "gesamt": 35
+  },
+  "zutaten": [
+    {
+      "gruppe": "Green Beans",
+      "items": [
+        { "menge": 400, "einheit": "g", "name": "Grüne Bohnen (frisch)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 8, "einheit": "Stück", "name": "Bacon-Scheiben", "abteilung": "Fleisch & Fisch" },
+        { "menge": 1, "einheit": "EL", "name": "Olivenöl", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Pfeffer", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "EL", "name": "Ahornsirup (optional)", "abteilung": "Grundnahrungsmittel" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Bohnen waschen, Enden abschneiden.",
+    "Bohnen in kochendem Salzwasser 3 Min. blanchieren, dann in Eiswasser abschrecken.",
+    "Bohnen in Bündeln von ca. 6-8 Stück mit je einer Bacon-Scheibe fest umwickeln.",
+    "Mit Olivenöl beträufeln, leicht salzen und pfeffern.",
+    "Optional: Mit etwas Ahornsirup bestreichen für Süss-Salzig-Kombination.",
+    "Auf dem Grill (indirekte Zone) oder im Backofen bei 200°C ca. 15-20 Min. garen.",
+    "Bacon soll knusprig sein, Bohnen noch Biss haben."
+  ],
+  "tipps": [
+    "Bohnen vorher blanchieren ist wichtig, sonst werden sie nicht rechtzeitig gar.",
+    "Auf dem Grill neben dem Steak auf der indirekten Zone — Timing passt perfekt.",
+    "Zahnstocher helfen beim Fixieren, vor dem Servieren entfernen."
+  ],
+  "notizen": "Perfekte Beilage zum Entrecôte auf dem Grill."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "burrata-tomaten",
+  "titel": "Burrata mit Tomaten & Basilikumöl",
+  "kategorie": "Vorspeise",
+  "tags": ["italienisch", "vegetarisch", "sommer", "schnell", "kalt"],
+  "favorit": true,
+  "portionen": 4,
+  "portionenEinheit": "Portionen",
+  "aufwand": "einfach",
+  "zeit": {
+    "vorbereitung": 15,
+    "gesamt": 15
+  },
+  "zutaten": [
+    {
+      "gruppe": "Salat",
+      "items": [
+        { "menge": 2, "einheit": "Stück", "name": "Burrata (je ca. 125g)", "abteilung": "Milchprodukte" },
+        { "menge": 400, "einheit": "g", "name": "Tomaten (gemischt, reif)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "Prise", "name": "Fleur de Sel", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Schwarzer Pfeffer", "abteilung": "Gewürze & Öle" }
+      ]
+    },
+    {
+      "gruppe": "Basilikumöl",
+      "items": [
+        { "menge": 1, "einheit": "Bund", "name": "Frisches Basilikum", "abteilung": "Gemüse & Früchte" },
+        { "menge": 100, "einheit": "ml", "name": "Gutes Olivenöl (extra vergine)", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Salz", "abteilung": "Gewürze & Öle" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Basilikumöl: Basilikumblätter mit Olivenöl und Salz im Mixer pürieren. Durch ein feines Sieb passieren.",
+    "Tomaten in unterschiedliche Formen schneiden (Scheiben, Hälften, Viertel) für optische Vielfalt.",
+    "Tomaten auf Tellern anrichten, leicht salzen.",
+    "Burrata in die Mitte setzen, mit den Händen leicht aufbrechen.",
+    "Grosszügig mit Basilikumöl beträufeln.",
+    "Mit Fleur de Sel und frisch gemahlenem Pfeffer würzen.",
+    "Sofort servieren mit gutem Brot."
+  ],
+  "tipps": [
+    "Burrata unbedingt Raumtemperatur — nie direkt aus dem Kühlschrank servieren.",
+    "Tomaten sollten richtig reif sein, Saison ist alles bei diesem Gericht.",
+    "Basilikumöl kann man auf Vorrat machen und im Kühlschrank 3-4 Tage aufbewahren.",
+    "Optional: Pinienkerne anrösten und drüberstreuen."
+  ],
+  "notizen": "Perfekte Vorspeise vor dem Entrecôte. Im Sommer ein Muss."
+}

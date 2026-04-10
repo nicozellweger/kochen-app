@@ -1,0 +1,54 @@
+{
+  "id": "entrecote-reverse-sear",
+  "titel": "Argentine Entrecôte — Reverse Sear",
+  "kategorie": "Hauptgang",
+  "tags": ["grill", "fleisch", "argentinisch", "reverse-sear", "steak"],
+  "favorit": true,
+  "portionen": 2,
+  "portionenEinheit": "Steaks",
+  "aufwand": "mittel",
+  "zeit": {
+    "vorbereitung": 10,
+    "gesamt": 60
+  },
+  "zutaten": [
+    {
+      "gruppe": "Steak",
+      "items": [
+        { "menge": 2, "einheit": "Stück", "name": "Entrecôte (ca. 300g, 3cm dick)", "abteilung": "Fleisch & Fisch" },
+        { "menge": 1, "einheit": "EL", "name": "Olivenöl", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "TL", "name": "Grobes Meersalz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "TL", "name": "Schwarzer Pfeffer (grob)", "abteilung": "Gewürze & Öle" }
+      ]
+    },
+    {
+      "gruppe": "Optional: Chimichurri",
+      "items": [
+        { "menge": 1, "einheit": "Bund", "name": "Glattblättrige Petersilie", "abteilung": "Gemüse & Früchte" },
+        { "menge": 4, "einheit": "Stück", "name": "Knoblauchzehen", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "TL", "name": "Chiliflocken", "abteilung": "Gewürze & Öle" },
+        { "menge": 3, "einheit": "EL", "name": "Rotweinessig", "abteilung": "Gewürze & Öle" },
+        { "menge": 100, "einheit": "ml", "name": "Olivenöl", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "TL", "name": "Oregano (getrocknet)", "abteilung": "Gewürze & Öle" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Steaks 1 Stunde vor dem Grillieren aus dem Kühlschrank nehmen.",
+    "Grill einrichten: Indirekte Zone (ca. 120°C) und direkte Zone (Sear Burner auf Maximum).",
+    "Typhur-Sonden in die Steaks stecken.",
+    "Steaks auf die indirekte Zone legen. Deckel zu.",
+    "Langsam garen bis Kerntemperatur 48-50°C erreicht ist (für Medium Rare). Dauert ca. 30-40 Min.",
+    "Steaks auf den Sear Burner legen. Je Seite ca. 60-90 Sekunden für maximale Kruste.",
+    "Vom Grill nehmen, mit grobem Salz und Pfeffer würzen.",
+    "5 Minuten ruhen lassen, dann aufschneiden und servieren.",
+    "Optional: Chimichurri — Petersilie und Knoblauch fein hacken, alle Zutaten vermischen, mind. 30 Min. ziehen lassen."
+  ],
+  "tipps": [
+    "Reverse Sear = gleichmässiges Rosa von Rand zu Rand, perfekte Kruste.",
+    "Kerntemperatur beim Searing steigt nochmal 2-3°C — also rechtzeitig von der indirekten Zone nehmen.",
+    "Sear Burner muss wirklich auf Maximum sein. Rauch ist normal und gewünscht.",
+    "Typhur-Sonden machen das Rätselraten überflüssig."
+  ],
+  "notizen": "Signature-Gericht auf dem Outdoorchef. Funktioniert auch mit Rindsfilet, dann kürzere Garzeiten."
+}

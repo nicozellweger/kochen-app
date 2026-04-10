@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Claude Code lokale Config
+.claude/
+
+# Dependencies (falls wir mal welche hinzufügen)
+node_modules/
+
+# Environment — für zukünftige Features (AI-Integration etc.)
+.env
+.env.local
+
+# Build artifacts sind gewollt im Repo (index.html, manifest.json, sw.js, icons/)
+# weil Vercel sie statisch serviert. Sie werden durch build.js generiert.

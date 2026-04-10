@@ -1,0 +1,52 @@
+{
+  "id": "panna-cotta",
+  "titel": "Panna Cotta",
+  "kategorie": "Dessert",
+  "tags": ["italienisch", "dessert", "einfach", "make-ahead"],
+  "favorit": true,
+  "portionen": 6,
+  "portionenEinheit": "Gläser",
+  "aufwand": "einfach",
+  "zeit": {
+    "vorbereitung": 15,
+    "gesamt": 255
+  },
+  "zutaten": [
+    {
+      "gruppe": "Panna Cotta",
+      "items": [
+        { "menge": 500, "einheit": "ml", "name": "Vollrahm (35% Fett)", "abteilung": "Milchprodukte" },
+        { "menge": 100, "einheit": "ml", "name": "Milch", "abteilung": "Milchprodukte" },
+        { "menge": 60, "einheit": "g", "name": "Zucker", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "Stück", "name": "Vanilleschote", "abteilung": "Gewürze & Öle" },
+        { "menge": 3, "einheit": "Stück", "name": "Gelatineblätter", "abteilung": "Grundnahrungsmittel" }
+      ]
+    },
+    {
+      "gruppe": "Beerensauce (optional)",
+      "items": [
+        { "menge": 200, "einheit": "g", "name": "Gemischte Beeren", "abteilung": "Gemüse & Früchte" },
+        { "menge": 2, "einheit": "EL", "name": "Zucker", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "EL", "name": "Zitronensaft", "abteilung": "Gemüse & Früchte" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Gelatineblätter in kaltem Wasser einweichen (ca. 5 Min.).",
+    "Vanilleschote längs aufschneiden, Mark auskratzen.",
+    "Rahm, Milch, Zucker und Vanille (Schote + Mark) in einem Topf langsam erhitzen. Nicht kochen.",
+    "Wenn die Mischung dampft, vom Herd nehmen. Vanilleschote entfernen.",
+    "Gelatine ausdrücken und in der heissen Masse auflösen, gut umrühren.",
+    "In Gläser oder Förmchen verteilen.",
+    "Mindestens 4 Stunden (besser über Nacht) im Kühlschrank fest werden lassen.",
+    "Beerensauce: Beeren mit Zucker und Zitronensaft kurz aufkochen, leicht zerdrücken, abkühlen lassen.",
+    "Vor dem Servieren mit Beerensauce und frischen Beeren garnieren."
+  ],
+  "tipps": [
+    "3 Blatt Gelatine = perfekter Wackelpudding-Effekt. Mehr = zu fest, weniger = fliesst.",
+    "Kann 2 Tage im Voraus zubereitet werden — perfektes Gästedessert.",
+    "Im Sommer auch mit Passionsfrucht oder Mango statt Beeren.",
+    "Rahm mit 35% Fett ist wichtig, nicht Halbrahm."
+  ],
+  "notizen": "Unkompliziertes Dessert das immer funktioniert. Am Vortag machen, beim Essen zurücklehnen."
+}
