@@ -1,0 +1,81 @@
+{
+  "id": "lasagne-bolognese",
+  "titel": "Lasagne Bolognese",
+  "kategorie": "Hauptgang",
+  "tags": ["italienisch", "ofen", "für-gäste", "klassiker", "vortag-tauglich", "pikant"],
+  "favorit": false,
+  "portionen": 6,
+  "aufwand": "mittel",
+  "zeit": {
+    "vorbereitung": 30,
+    "gesamt": 150
+  },
+  "zutaten": [
+    {
+      "gruppe": "Bolognese",
+      "items": [
+        {"menge": 500, "einheit": "g", "name": "Rindshackfleisch", "abteilung": "Fleisch & Fisch"},
+        {"menge": 200, "einheit": "g", "name": "Schweinshackfleisch", "abteilung": "Fleisch & Fisch"},
+        {"menge": 1, "einheit": "Stück", "name": "grosse Zwiebel", "abteilung": "Gemüse & Früchte"},
+        {"menge": 2, "einheit": "Stück", "name": "Karotten", "abteilung": "Gemüse & Früchte"},
+        {"menge": 2, "einheit": "Stück", "name": "Stangen Staudensellerie", "abteilung": "Gemüse & Früchte"},
+        {"menge": 3, "einheit": "Stück", "name": "Knoblauchzehen", "abteilung": "Gemüse & Früchte"},
+        {"menge": 0.5, "einheit": "TL", "name": "Chiliflocken", "abteilung": "Gewürze & Öle"},
+        {"menge": 1, "einheit": "EL", "name": "Tomatenpüree", "abteilung": "Grundnahrungsmittel"},
+        {"menge": 800, "einheit": "g", "name": "gehackte Tomaten (Dose)", "abteilung": "Grundnahrungsmittel"},
+        {"menge": 200, "einheit": "ml", "name": "Rotwein (trocken)", "abteilung": "Getränke"},
+        {"menge": 300, "einheit": "ml", "name": "Rinderbouillon", "abteilung": "Grundnahrungsmittel"},
+        {"menge": 1, "einheit": "EL", "name": "Olivenöl", "abteilung": "Gewürze & Öle"},
+        {"menge": 1, "einheit": "Stück", "name": "Lorbeerblatt", "abteilung": "Gewürze & Öle"},
+        {"menge": 1, "einheit": "Prise", "name": "Muskat", "abteilung": "Gewürze & Öle"},
+        {"menge": null, "einheit": null, "name": "Salz, schwarzer Pfeffer", "abteilung": "Gewürze & Öle"}
+      ]
+    },
+    {
+      "gruppe": "Béchamel",
+      "items": [
+        {"menge": 500, "einheit": "ml", "name": "Vollmilch", "abteilung": "Milchprodukte"},
+        {"menge": 50, "einheit": "g", "name": "Butter", "abteilung": "Milchprodukte"},
+        {"menge": 50, "einheit": "g", "name": "Weissmehl", "abteilung": "Grundnahrungsmittel"},
+        {"menge": 1, "einheit": "Prise", "name": "Muskat", "abteilung": "Gewürze & Öle"},
+        {"menge": null, "einheit": null, "name": "Salz, weisser Pfeffer", "abteilung": "Gewürze & Öle"}
+      ]
+    },
+    {
+      "gruppe": "Aufbau",
+      "items": [
+        {"menge": 250, "einheit": "g", "name": "Lasagneblätter (ohne Vorkochen)", "abteilung": "Grundnahrungsmittel"},
+        {"menge": 200, "einheit": "g", "name": "Parmesan (frisch gerieben, aus dem Block)", "abteilung": "Milchprodukte"},
+        {"menge": 50, "einheit": "g", "name": "Pecorino Romano (frisch gerieben)", "abteilung": "Milchprodukte"}
+      ]
+    }
+  ],
+  "schritte": [
+    "Zwiebel, Karotten, Sellerie und Knoblauch sehr fein würfeln (Soffritto).",
+    "In einem grossen Topf Olivenöl erhitzen, Soffritto zusammen mit den Chiliflocken 8-10 Minuten sanft anschwitzen bis alles weich ist (nicht bräunen — die Öle lösen die Schärfe gleichmässig).",
+    "Hackfleisch zugeben, mit Holzkochlöffel zerteilen und krümelig anbraten bis Röststoffe entstehen (5-7 Minuten).",
+    "Tomatenpüree einrühren, 1 Minute mitrösten.",
+    "Mit Rotwein ablöschen, Wein komplett einkochen lassen.",
+    "Gehackte Tomaten und Bouillon zugeben, Lorbeerblatt, Salz, Pfeffer, Muskat.",
+    "Auf niedrigste Hitze reduzieren, halb abgedeckt mindestens 90 Minuten köcheln lassen. Alle 20 Minuten umrühren. Wenn zu trocken: etwas Wasser oder Bouillon zugeben.",
+    "Béchamel (während die Bolognese köchelt): Butter in einem Topf schmelzen, Mehl einstreuen und 2 Minuten unter Rühren anschwitzen (bleibt hell — keine Farbe).",
+    "Milch in 3 Portionen langsam zugeben, jeweils glatt rühren bevor die nächste Portion dazukommt.",
+    "5-10 Minuten köcheln lassen bis eine cremige, nicht zu dicke Sauce entsteht (soll vom Löffel fliessen können).",
+    "Mit Salz, weissem Pfeffer und grosszügig Muskat abschmecken.",
+    "Backofen auf 180°C Ober-/Unterhitze vorheizen.",
+    "In eine grosse Auflaufform (ca. 25x35 cm) eine dünne Schicht Bolognese als Boden.",
+    "Lasagneblätter drauf, dann Bolognese, dann Béchamel, dann eine Mischung aus Parmesan und Pecorino. Wiederholen bis alles verbraucht ist. Letzte Schicht: Béchamel + grosszügig gemischter Käse obendrauf.",
+    "35-40 Minuten backen bis die Oberfläche goldbraun ist und es an den Rändern blubbert.",
+    "Kritischer Schritt: 10-15 Minuten vor dem Anschneiden ruhen lassen. Sonst läuft sie auseinander."
+  ],
+  "tipps": [
+    "Vortag: Bolognese einen Tag vorher kochen, kalt stellen. Am Tag der Lasagne zusammenbauen und backen. Deutlich mehr Aroma.",
+    "Besseres Fleisch: Wenn möglich Bio-Hackfleisch mit etwas Fettanteil. Mageres Fleisch wird trocken.",
+    "Wein: Nimm einen Wein den du auch trinken würdest. Kein Kochwein aus dem Billig-Regal.",
+    "Parmesan und Pecorino aus dem Block: Der Unterschied zu vorgeriebenem ist riesig.",
+    "Pecorino Romano ist salziger und kräftiger als Parmesan — 50g reichen. Falls nicht vorhanden, mit Parmesan ausgleichen.",
+    "Ofentemperatur: Wenn dein Ofen sehr schnell bräunt, die letzten 10 Minuten mit Alufolie abdecken.",
+    "Schärfe: Die 0.5 TL Chiliflocken geben subtile Wärme — nicht scharf, aber runder. Beim nächsten Mal kannst du auf 1 TL erhöhen."
+  ],
+  "notizen": "Klassische Emilia-Romagna-Version ohne Mozzarella — näher am Original, schnittfester, aromatischer. Gut machbar am Vortag → perfekt für Gäste am Sonntagabend. Rest schmeckt auch kalt am nächsten Tag hervorragend."
+}
