@@ -1,0 +1,60 @@
+{
+  "id": "schweinsnierstueck-reverse-sear",
+  "titel": "Schweinsnierstück — Reverse Sear & Finish",
+  "kategorie": "Hauptgang",
+  "tags": ["grill", "reverse-sear", "schwein", "sear-burner", "für-gäste"],
+  "favorit": false,
+  "portionen": 4,
+  "aufwand": "mittel",
+  "zeit": {
+    "vorbereitung": 15,
+    "gesamt": 80
+  },
+  "zutaten": [
+    {
+      "gruppe": "Fleisch",
+      "items": [
+        {"menge": 1.2, "einheit": "kg", "name": "Schweinsnierstück, am Stück", "abteilung": "Fleisch & Fisch"},
+        {"menge": 1, "einheit": "Prise", "name": "Fleur de Sel", "abteilung": "Gewürze & Öle"},
+        {"menge": 1, "einheit": "Prise", "name": "Schwarzer Pfeffer, frisch gemahlen", "abteilung": "Gewürze & Öle"}
+      ]
+    },
+    {
+      "gruppe": "Dry Rub",
+      "items": [
+        {"menge": 2, "einheit": "EL", "name": "Olivenöl", "abteilung": "Gewürze & Öle"},
+        {"menge": 1, "einheit": "TL", "name": "Geräuchertes Paprikapulver", "abteilung": "Gewürze & Öle"},
+        {"menge": 1, "einheit": "TL", "name": "Knoblauchpulver", "abteilung": "Gewürze & Öle"},
+        {"menge": 0.5, "einheit": "TL", "name": "Zwiebelpulver", "abteilung": "Gewürze & Öle"},
+        {"menge": 4, "einheit": "Zweig", "name": "Frischer Thymian", "abteilung": "Gemüse & Früchte"}
+      ]
+    },
+    {
+      "gruppe": "Zum Finish",
+      "items": [
+        {"menge": 1, "einheit": "Prise", "name": "Flockensalz (Maldon o.ä.)", "abteilung": "Gewürze & Öle"},
+        {"menge": 1, "einheit": "Stück", "name": "Knoblauchzehe", "abteilung": "Gemüse & Früchte"},
+        {"menge": 30, "einheit": "g", "name": "Butter oder Café de Paris Butter", "abteilung": "Milchprodukte"}
+      ]
+    }
+  ],
+  "schritte": [
+    "Nierstück 1 Stunde vor dem Grillieren aus dem Kühlschrank nehmen — Raumtemperatur ist Pflicht.",
+    "Silberhaut entfernen falls vorhanden. Fleisch trocken tupfen.",
+    "Mit Olivenöl einreiben, Dry Rub (Paprika, Knoblauch, Zwiebel) gleichmässig auftragen, Thymianzweige darauflegen. Noch NICHT salzen.",
+    "Grill für indirekte Hitze einrichten: 120–130 °C. Fleisch auf die indirekte Zone legen, Kerntemperaturfühler einstechen.",
+    "Bei geschlossenem Deckel ca. 40–50 Minuten niedergaren bis Kerntemperatur 58–60 °C erreicht ist.",
+    "Fleisch vom Grill nehmen, locker in Alufolie einwickeln und 10 Minuten ruhen lassen. Währenddessen den Sear Burner auf Maximum aufheizen (mindestens 5 Minuten).",
+    "Nierstück in 3–4 cm dicke Medaillons schneiden. Jetzt mit Fleur de Sel und Pfeffer würzen.",
+    "Medaillons auf den Sear Burner: 60–90 Sekunden pro Seite für eine brutale Kruste. Nicht zu oft wenden — einmal pro Seite reicht.",
+    "Optional: In den letzten 20 Sekunden ein Stück Butter oder Café de Paris Butter auf jedes Medaillon schmelzen lassen. Halbierte Knoblauchzehe über die Schnittflächen reiben.",
+    "Sofort servieren."
+  ],
+  "tipps": [
+    "Kerntemperatur ist König — ohne Fühler wird's Glücksspiel. 58 °C am Stück, nach dem Sear landest du bei perfekten 62–63 °C.",
+    "Sear Burner muss richtig heiss sein: Maillard-Reaktion braucht Hitze, kein Schmoren.",
+    "Medaillons nicht unter 2.5 cm schneiden — sonst verlierst du beim Sear den Vorteil des Niedergarens.",
+    "Dazu passt: Grillgemüse, Kräuterbutter, Ofenkartoffeln oder ein frischer Salat.",
+    "Café de Paris Butter als Finish macht das Ganze nochmal nächstes Level — Rezept ist schon in der App."
+  ]
+}
