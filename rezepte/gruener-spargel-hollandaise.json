@@ -1,0 +1,55 @@
+{
+  "id": "gruener-spargel-hollandaise",
+  "titel": "Grüner Spargel mit Sauce Hollandaise",
+  "kategorie": "Beilage",
+  "tags": ["frühling", "spargel", "sauce", "klassiker", "vegetarisch"],
+  "favorit": false,
+  "portionen": 4,
+  "portionenEinheit": "Portionen",
+  "aufwand": "mittel",
+  "zeit": {
+    "vorbereitung": 15,
+    "gesamt": 30
+  },
+  "zutaten": [
+    {
+      "gruppe": "Spargel",
+      "items": [
+        { "menge": 1, "einheit": "kg", "name": "Grüner Spargel", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "Prise", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Zucker", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "EL", "name": "Butter (für Kochwasser)", "abteilung": "Milchprodukte" }
+      ]
+    },
+    {
+      "gruppe": "Sauce Hollandaise (Stabmixer-Methode)",
+      "items": [
+        { "menge": 3, "einheit": "Stück", "name": "Eigelb (Grösse M)", "abteilung": "Milchprodukte" },
+        { "menge": 200, "einheit": "g", "name": "Butter", "abteilung": "Milchprodukte" },
+        { "menge": 1, "einheit": "EL", "name": "Zitronensaft", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "Prise", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Cayennepfeffer", "abteilung": "Gewürze & Öle" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Spargel vorbereiten: Untere Enden abbrechen (brechen natürlich an der holzigen Stelle). Bei grünem Spargel ist Schälen meist nicht nötig — höchstens das untere Drittel leicht schälen.",
+    "Grossen Topf mit reichlich Salzwasser aufsetzen, Prise Zucker und 1 EL Butter dazugeben. Aufkochen.",
+    "Spargel ins kochende Wasser geben, 8-10 Min. bissfest (al dente) kochen.",
+    "Hollandaise parallel: Butter in einem kleinen Pfännchen schmelzen und heiss werden lassen (ca. 70°C).",
+    "Eigelb, Zitronensaft, Salz und Cayennepfeffer in einen hohen Mixbecher geben.",
+    "Die heisse Butter über die Eigelb-Mischung giessen.",
+    "Stabmixer bis auf den Boden des Bechers drücken, einschalten und 10 Sek. unten halten.",
+    "Dann langsam nach oben ziehen — die Sauce emulgiert in ca. 30 Sek. zu einer cremigen Hollandaise.",
+    "Abschmecken. Wenn zu dick: 1 EL warmes Wasser einrühren.",
+    "Spargel abtropfen, auf Tellern anrichten und mit der Sauce Hollandaise servieren."
+  ],
+  "tipps": [
+    "Stabmixer-Methode ist praktisch gelingsicher — viel einfacher als die klassische Wasserbad-Variante.",
+    "Sauce nie über 60°C erhitzen, sonst gerinnt sie. Warmhalten z.B. in einer Thermoskanne oder über sehr lauwarmem Wasserbad.",
+    "Weisser Spargel funktioniert genauso, muss aber komplett geschält und 15-18 Min. gekocht werden.",
+    "Hollandaise schmeckt auch super zu pochiertem Ei, Eggs Benedict oder Lachs.",
+    "Spargel-Saison: April bis Juni — dann ist er am besten und günstigsten."
+  ],
+  "notizen": "Klassischer Frühlings-Hit, passt perfekt zu Rindsfilet oder pur als Vorspeise."
+}

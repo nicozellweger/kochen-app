@@ -1,0 +1,51 @@
+{
+  "id": "rindsfilet-reverse-sear",
+  "titel": "Rindsfilet Mittelstück — Reverse Sear mit Café de Paris",
+  "kategorie": "Hauptgang",
+  "tags": ["grill", "fleisch", "reverse-sear", "rindsfilet", "für-gäste", "klassiker"],
+  "favorit": false,
+  "portionen": 4,
+  "portionenEinheit": "Portionen",
+  "aufwand": "mittel",
+  "zeit": {
+    "vorbereitung": 15,
+    "gesamt": 135
+  },
+  "zutaten": [
+    {
+      "gruppe": "Filet",
+      "items": [
+        { "menge": 1, "einheit": "kg", "name": "Rindsfilet-Mittelstück (Chateaubriand)", "abteilung": "Fleisch & Fisch" },
+        { "menge": 2, "einheit": "TL", "name": "Grobes Meersalz (Fleur de Sel)", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "TL", "name": "Schwarzer Pfeffer (frisch gemahlen)", "abteilung": "Gewürze & Öle" }
+      ]
+    },
+    {
+      "gruppe": "Zum Servieren",
+      "items": [
+        { "menge": 4, "einheit": "Scheibe", "name": "Café de Paris Butter (ca. 1 cm dick)", "abteilung": "Tiefkühl" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Filet 1-2 Stunden vor dem Grillieren aus dem Kühlschrank nehmen und bei Raumtemperatur temperieren lassen.",
+    "Filet rundum grosszügig mit grobem Meersalz würzen. Pfeffer erst nach dem Searen — verbrennt sonst.",
+    "Grill einrichten: Indirekte Zone auf 120°C, direkte Zone (Sear Burner) bereit für maximale Hitze.",
+    "Typhur-Sonde in die dickste Stelle des Filets stecken.",
+    "Filet auf die indirekte Zone legen, Deckel schliessen.",
+    "Langsam garen bis Kerntemperatur 48°C erreicht ist — ca. 45-60 Min. bei 1 kg.",
+    "Filet vom Grill nehmen, auf einem Brett 5 Min. ruhen lassen. Währenddessen direkte Zone auf Vollgas (250°C+) bringen.",
+    "Filet auf die direkte Zone legen, rundum scharf angrillen — 60-90 Sek. pro Seite, bis Kerntemperatur 52-54°C erreicht ist.",
+    "Vom Grill nehmen, pfeffern, in ca. 2 cm dicke Tranchen schneiden.",
+    "Scheiben Café de Paris Butter direkt auf die heissen Filetstücke legen — schmelzen von der Resthitze. Sofort servieren."
+  ],
+  "tipps": [
+    "Kerntemperatur-Thermometer ist Pflicht bei einem Mittelstück — Augenmass reicht bei 1 kg nicht.",
+    "Reverse Sear = gleichmässiges Rosa von Rand zu Rand, perfekte Kruste, keine graue Zone.",
+    "Kerntemperatur steigt beim Searen nochmal 2-3°C — also rechtzeitig von der indirekten Zone nehmen.",
+    "Café de Paris Butter gefroren in Scheiben schneiden — lässt sich so viel sauberer portionieren.",
+    "Bei Reverse Sear braucht das Fleisch nach dem Searen keine lange Nachruhe mehr (anders als bei klassisch).",
+    "Alternativ: Rotwein-Jus statt Café de Paris."
+  ],
+  "notizen": "Das zarteste Stück vom Rind, zum klassischen Gästeessen. 1 kg Mittelstück ergibt ca. 250 g pro Person für 4 Personen — perfekt."
+}
