@@ -1,7 +1,7 @@
-// Nicos Kueche Service Worker — v1.0.0
+// Nicos Kueche Service Worker — v1.0.1
 // Auto-generiert von build.js. NICHT manuell editieren.
 
-const CACHE_NAME = 'nicos-kueche-v1.0.0';
+const CACHE_NAME = 'nicos-kueche-v1.0.1';
 const ASSETS = [
   './',
   './index.html',

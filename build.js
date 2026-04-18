@@ -14,7 +14,7 @@ const SW_OUT = path.join(__dirname, 'sw.js');
 const ICONS_DIR = path.join(__dirname, 'icons');
 
 // PWA Version — bei Aenderungen hochzaehlen damit der Service Worker den Cache neu laedt
-const PWA_VERSION = 'v1.0.0';
+const PWA_VERSION = 'v1.0.1';
 
 // Alle JSON-Dateien lesen
 const rezepte = fs.readdirSync(REZEPTE_DIR)
