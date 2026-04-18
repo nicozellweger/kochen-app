@@ -41,22 +41,28 @@ Kochen/
 #    slug = kebab-case Version des Titels, ohne Umlaute
 #    Beispiel: "Lasagne Bolognese" → lasagne-bolognese.json
 
-# 2. Build ausführen
+# 2. PWA_VERSION in build.js hochzählen (Patch-Version)
+#    WICHTIG: Sonst cached der Service Worker auf installierten PWAs (v.a. Handys)
+#    die alte Version und neue Rezepte erscheinen erst nach manuellem Cache-Reset.
+#    Beispiel: 'v1.0.1' → 'v1.0.2'
+
+# 3. Build ausführen
 cd "/c/Users/NicoZellweger(Amphas/Desktop/AI Projects/Kochen"
 node build.js
 
-# 3. Git-Commit mit aussagekräftiger Message
-git add rezepte/[slug].json index.html manifest.json sw.js icons/
+# 4. Git-Commit mit aussagekräftiger Message
+git add rezepte/[slug].json build.js index.html manifest.json sw.js icons/
 git commit -m "Add [Titel]
 
 [1-2 Sätze Beschreibung was das Rezept auszeichnet]
 
-Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>"
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
 
-# 4. Push zu GitHub — Vercel deployt automatisch in ~30 Sekunden
+# 5. Push zu GitHub — Vercel deployt automatisch in ~30 Sekunden
 git push
 
-# 5. Bestätige Nico: "Rezept deployed. In ~30 Sekunden auf https://nicos-kueche.vercel.app/ sichtbar."
+# 6. Bestätige Nico: "Rezept deployed. In ~30 Sekunden auf https://nicos-kueche.vercel.app/ sichtbar.
+#    PWA auf dem Handy einmal schliessen und neu öffnen — SW aktualisiert sich dann automatisch."
 ```
 
 ---
@@ -206,4 +212,8 @@ Wenn sich das JSON-Schema ändert (neue Felder, neue Kategorien etc.), muss:
 ### Bei Fehlern
 - Build-Fehler: `node build.js` lokal ausführen, Fehlermeldung lesen
 - Vercel Build Fails: Check https://vercel.com/nicozellweger/kochen-app
-- Service Worker Cache-Probleme: Version in `build.js` hochzählen (`PWA_VERSION`)
+- Service Worker Cache-Probleme (falls PWA_VERSION im Deploy-Flow vergessen wurde):
+  1. `PWA_VERSION` in `build.js` nachträglich hochzählen
+  2. Rebuild + commit + push
+  3. Auf dem Handy: PWA schliessen + neu öffnen (ggf. zweimal)
+  4. Als letzter Fallback: PWA deinstallieren und neu "Zum Homescreen hinzufügen"
