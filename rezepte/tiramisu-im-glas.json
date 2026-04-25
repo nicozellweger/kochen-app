@@ -1,0 +1,63 @@
+{
+  "id": "tiramisu-im-glas",
+  "titel": "Tiramisu im Glas",
+  "kategorie": "Dessert",
+  "tags": ["italienisch", "dessert", "im-glas", "klassiker", "make-ahead", "leicht"],
+  "favorit": false,
+  "portionen": 4,
+  "portionenEinheit": "Gläser",
+  "aufwand": "einfach",
+  "zeit": {
+    "vorbereitung": 25,
+    "gesamt": 265
+  },
+  "zutaten": [
+    {
+      "gruppe": "Creme",
+      "items": [
+        { "menge": 250, "einheit": "g", "name": "Mascarpone (Zimmertemperatur)", "abteilung": "Milchprodukte" },
+        { "menge": 2, "einheit": "Stück", "name": "Eier (sehr frisch)", "abteilung": "Milchprodukte" },
+        { "menge": 60, "einheit": "g", "name": "Zucker", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "dl", "name": "Vollrahm (kalt)", "abteilung": "Milchprodukte" },
+        { "menge": 1, "einheit": "Prise", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 0.5, "einheit": "TL", "name": "Vanillepaste", "abteilung": "Gewürze & Öle" }
+      ]
+    },
+    {
+      "gruppe": "Tränke",
+      "items": [
+        { "menge": 2, "einheit": "dl", "name": "Espresso (stark, abgekühlt)", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 2, "einheit": "EL", "name": "Amaretto", "abteilung": "Getränke" },
+        { "menge": 1, "einheit": "TL", "name": "Zucker", "abteilung": "Grundnahrungsmittel" }
+      ]
+    },
+    {
+      "gruppe": "Schichten & Topping",
+      "items": [
+        { "menge": 16, "einheit": "Stück", "name": "Löffelbiskuits", "abteilung": "Brot & Backwaren" },
+        { "menge": 2, "einheit": "EL", "name": "Kakaopulver (ungesüsst)", "abteilung": "Grundnahrungsmittel" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Espresso, 1 TL Zucker und Amaretto verrühren bis der Zucker gelöst ist. In eine flache Schale giessen und vollständig auskühlen lassen. Wichtig: muss kalt sein, sonst werden die Biskuits matschig.",
+    "Vollrahm mit dem Handmixer halbsteif schlagen, bis weiche, leicht überhängende Spitzen entstehen (Joghurt-Konsistenz mit Halt). Nicht steif schlagen. Kühl stellen.",
+    "Eigelb, 40 g Zucker, Vanillepaste und eine Prise Salz in der Bosch Küchenmaschine mit Schwingbesen 4-5 Min auf hoher Stufe hell aufschlagen. Fertig wenn die Masse fast weiss und dickflüssig ist und als Band vom Besen fällt (Bandprobe).",
+    "Mascarpone von Hand mit dem Spatel esslöffelweise unter die Eigelbmasse rühren, nur bis homogen und glatt. Nicht überrühren — sonst wird die Masse flüssig.",
+    "Geschlagenen Rahm in zwei Portionen mit dem Spatel sanft unterheben. Endmasse: gleichmässig hellgelb, keine weissen Rahmstreifen mehr.",
+    "Schüssel und Schwingbesen heiss ausspülen und mit Küchenpapier komplett trocken reiben. Auch kleinste Fettreste verhindern stabilen Eischnee.",
+    "Eiweiss mit einer Prise Salz in der Bosch Küchenmaschine mit Schwingbesen auf mittlerer Stufe schaumig schlagen. Sobald schaumig, die 20 g Zucker langsam einrieseln lassen, dann höher schalten. Insgesamt 3-4 Min. Fertig: glänzend, mittelfest, Spitzen überhängen leicht — beim Kippen der Schüssel rutscht nichts. Nicht zu fest schlagen, sonst lässt sich der Schnee nicht mehr unterheben.",
+    "Eischnee in zwei Etappen unter die Mascarpone-Creme heben: erst ein Drittel mit Schwung einrühren (lockert die Masse), dann den Rest mit dem Spatel sanft falten — von unten durch die Mitte, an den Rand, drüber. Fertig: luftig-cremig, keine weissen Schaumstückchen mehr sichtbar.",
+    "Löffelbiskuits einzeln 1-2 Sek pro Seite in den Espresso tunken — feucht, aber nicht durchnässt (sie sollen noch Form haben). In 2-3 Stücke brechen.",
+    "Pro Bodum-Glas schichten: 2 Biskuits am Boden, ca. 2-3 EL Creme, 2 Biskuits, restliche Creme darauf. Oberfläche glatt streichen, ca. 1 cm Rand frei lassen. Tipp: Gefrierbeutel mit abgeschnittener Ecke gibt saubere Schichten am Glasrand.",
+    "Mindestens 4 h, besser über Nacht im Kühlschrank ziehen lassen. Mit Frischhaltefolie locker abdecken — nicht direkt auf die Creme drücken.",
+    "Vor dem Servieren Kakao durch ein feines Sieb grosszügig drüberstäuben. Optional Schokoraspel."
+  ],
+  "tipps": [
+    "Eier sehr frisch, da das Eiweiss roh bleibt — Bio-Eier nehmen, im Kühlschrank lagern.",
+    "Über Nacht ziehen lassen ist klar besser als nur 4 h — die Aromen ziehen durch und die Creme stabilisiert sich.",
+    "Kakao erst direkt vor dem Servieren auf die Oberfläche, sonst saugt er Feuchtigkeit und wird fleckig.",
+    "Ohne Alkohol: Amaretto weglassen und dafür ½ TL Vanillepaste mehr in die Tränke geben."
+  ],
+  "notizen": "Im Bodum-Glas geschichtet — leicht und luftig durch geschlagenes Eiweiss und etwas Rahm. Klassisch im Geschmack, aber nicht so schwer wie das traditionelle Original."
+}
