@@ -1,0 +1,53 @@
+{
+  "id": "sweet-potato-wedges",
+  "titel": "Sweet Potato Wedges (Cosori)",
+  "kategorie": "Beilage",
+  "tags": ["beilage", "süsskartoffeln", "airfryer", "cosori", "vegetarisch", "schnell"],
+  "favorit": false,
+  "portionen": 2,
+  "portionenEinheit": "Portionen",
+  "aufwand": "einfach",
+  "zeit": {
+    "vorbereitung": 5,
+    "gesamt": 28
+  },
+  "zutaten": [
+    {
+      "gruppe": "Wedges",
+      "items": [
+        { "menge": 600, "einheit": "g", "name": "Süsskartoffeln (2 mittlere)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "EL", "name": "Olivenöl", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "TL", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "TL", "name": "Geräuchertes Paprikapulver", "abteilung": "Gewürze & Öle" },
+        { "menge": 0.5, "einheit": "TL", "name": "Knoblauchpulver", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Cayennepfeffer (optional)", "abteilung": "Gewürze & Öle" }
+      ]
+    },
+    {
+      "gruppe": "Sour Cream Dip",
+      "items": [
+        { "menge": 4, "einheit": "EL", "name": "Sour Cream", "abteilung": "Milchprodukte" },
+        { "menge": 1, "einheit": "EL", "name": "Schnittlauch (fein geschnitten)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "Spritzer", "name": "Zitronensaft", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "Prise", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Knoblauchpulver", "abteilung": "Gewürze & Öle" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Süsskartoffeln waschen, Schale dranlassen. Mit dem Messer in Spalten von ca. 1.5 cm Dicke schneiden — möglichst gleichmässig, sonst garen sie ungleichmässig.",
+    "In einer Schüssel Olivenöl, Salz, Paprika, Knoblauchpulver und Cayenne mit den Wedges von Hand oder mit dem Spatel schwenken bis alle Stücke gleichmässig benetzt sind.",
+    "Cosori TurboBlaze auf 200°C im PREHEAT-Modus 3 Min. vorheizen.",
+    "Wedges einlagig in den Cosori-Korb legen (Crisper Plate drin lassen), mit Lücken zwischen den Stücken. Bei Bedarf in zwei Durchgängen — überfüllter Korb dampft statt zu knuspern.",
+    "AIR FRY auf 200°C, 20 Min. Nach 12 Min. einmal mit der Zange wenden — Unterseite sollte schon goldbraun und knusprig sein.",
+    "Fertig: aussen knusprig-karamellisiert, innen weich (Gabeltest: gleitet leicht ins Innere). Falls nicht knusprig genug: +2 Min. bei 220°C draufgeben.",
+    "Dip parallel: Sour Cream, fein geschnittenen Schnittlauch, Zitronenspritzer, Salz und Knoblauchpulver in einer kleinen Schüssel mit dem Löffel verrühren. Abschmecken."
+  ],
+  "tipps": [
+    "Schale dranlassen — bringt Geschmack und macht die Wedges knuspriger.",
+    "Nicht überfüllen — bei mehr als einer Lage dampfen sie statt zu knuspern. Lieber zwei Durchgänge.",
+    "Gleichmässig dick schneiden für gleichmässige Garung.",
+    "Räuchersalz statt normalem Salz hebt das Paprika-Aroma nochmal."
+  ],
+  "notizen": "Schnelle Standardbeilage zu Burger oder Steak — kommt in 23 Min aus dem Cosori auf den Tisch."
+}
