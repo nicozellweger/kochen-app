@@ -1,0 +1,66 @@
+{
+  "id": "skyr-saaten-broetchen",
+  "titel": "Skyr-Saaten-Brötchen (Vortag-Methode)",
+  "kategorie": "Brot & Gebäck",
+  "tags": ["backen", "hefeteig", "overnight", "fitness", "vollkorn", "skyr", "frühstück"],
+  "favorit": false,
+  "portionen": 6,
+  "portionenEinheit": "Brötchen",
+  "aufwand": "mittel",
+  "zeit": {
+    "vorbereitung": 20,
+    "gesamt": 840
+  },
+  "zutaten": [
+    {
+      "gruppe": "Teig",
+      "items": [
+        { "menge": 300, "einheit": "g", "name": "Dinkelvollkornmehl", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 200, "einheit": "g", "name": "Skyr natur", "abteilung": "Milchprodukte" },
+        { "menge": 1, "einheit": "Stück", "name": "Ei (Grösse M)", "abteilung": "Milchprodukte" },
+        { "menge": 45, "einheit": "g", "name": "Saatenmischung (Leinsamen geschrotet, Sonnenblumen, Kürbis, Sesam) — wird geröstet", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 20, "einheit": "g", "name": "Zarte Haferflocken", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 2, "einheit": "EL", "name": "Olivenöl", "abteilung": "Gewürze & Öle" },
+        { "menge": 5, "einheit": "g", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 4, "einheit": "g", "name": "Frischhefe", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1.5, "einheit": "TL", "name": "Honig", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "EL", "name": "Apfelessig", "abteilung": "Gewürze & Öle" },
+        { "menge": 100, "einheit": "ml", "name": "Wasser (lauwarm, aufgeteilt: 60 ml Quellstück + 40 ml Hefe)", "abteilung": "Sonstiges" }
+      ]
+    },
+    {
+      "gruppe": "Topping",
+      "items": [
+        { "menge": 15, "einheit": "g", "name": "Saatenmischung (roh, zum Bestreuen)", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "Stück", "name": "Eigelb", "abteilung": "Milchprodukte" },
+        { "menge": 1, "einheit": "EL", "name": "Milch", "abteilung": "Milchprodukte" }
+      ]
+    }
+  ],
+  "schritte": [
+    "ABEND VORHER — Saaten rösten: 45 g der Saatenmischung in einer Pfanne ohne Fett bei mittlerer Hitze 2-3 Min. unter Rühren goldbraun rösten bis es nussig duftet. Sofort auf einen Teller umfüllen, vollständig auskühlen lassen. Sonst verbrennen sie in der Resthitze.",
+    "Saaten-Quellstück: 30 g der gerösteten Saaten in eine kleine Schüssel geben, mit 60 ml warmem Wasser übergiessen, abdecken, beiseite stellen. Macht die Krume saftig und Brötchen länger frisch.",
+    "Hefe aktivieren: 4 g Frischhefe und 1.5 TL Honig in 40 ml lauwarmem Wasser (max. 35°C) in einer Tasse auflösen, 5 Min. stehen lassen. Fertig wenn Oberfläche schaumig wird (zeigt aktive Hefe).",
+    "Vorkneten in der Bosch Küchenmaschine mit Knethaken auf Stufe 1, 1 Min.: Mehl, Skyr, Ei, Olivenöl, Apfelessig, Hefe-Wasser-Gemisch und Quellstück (mit Quellwasser) zu einem rauen Teig vermengen.",
+    "Quellzeit: Schüssel abdecken, 10 Min. stehen lassen — Mehlschale saugt Wasser, Teig wird lockerer.",
+    "Fertig kneten in der Bosch Küchenmaschine mit Knethaken auf Stufe 2, 8 Min.: Salz, Haferflocken und die restlichen 15 g gerösteten Saaten dazu. Fertig: Teig löst sich vom Schüsselrand, ist glatt und leicht klebrig.",
+    "Anspringen: Teig in eingeölte Schüssel umfüllen, abgedeckt 30 Min. bei Raumtemperatur stehen lassen. Soll leicht Volumen gewinnen.",
+    "Übernacht-Gare: Schüssel mit Frischhaltefolie abdecken, 10-14 Std. in den Kühlschrank stellen. Aroma entwickelt sich, Krume wird besser.",
+    "MORGENS — Temperieren: Teig 30 Min. vor der Weiterverarbeitung aus dem Kühlschrank nehmen.",
+    "Brötchen formen von Hand auf leicht bemehlter Fläche: Teig kurz zusammenstossen, in 6 gleichmässige Stücke teilen (Waage benutzen, ca. 110 g pro Stück). Jedes Stück mit der Handinnenfläche rund schleifen — Spannung aufbauen. Auf ein Blech mit Backpapier setzen, mind. 4 cm Abstand.",
+    "Stückgare: locker mit Tuch oder Folie abgedeckt 30-40 Min. gehen lassen. Fertig wenn Brötchen sichtbar gewachsen sind und Druckstelle vom Finger sich langsam zurückbildet.",
+    "Combi-Steamer auf 220°C vorheizen.",
+    "Bestreichen: 1 Eigelb mit 1 EL Milch verquirlen, mit dem Backpinsel dünn auf jedes Brötchen streichen. Mit den 15 g rohen Saaten bestreuen.",
+    "Einschneiden: Mit scharfem Messer oder Lame einen Längsschnitt oder ein Kreuz setzen, ca. 5 mm tief — kontrolliert die Ofentriebrichtung.",
+    "Backen im Combi-Steamer bei 220°C, 18 Min total: Erste 8 Min. mit maximalem Dampf (kombiniert Heissluft + Dampf), dann 10 Min. nur Heissluft ohne Dampf. Fertig: tiefgoldbraun, Kerntemperatur ca. 96°C, beim Klopfen auf den Boden hohl klingend.",
+    "Auskühlen auf einem Gitter, mind. 10 Min. — innen gart noch etwas nach."
+  ],
+  "tipps": [
+    "Saaten rösten ist Pflicht — bringt den grössten Geschmacks-Sprung.",
+    "Quellstück macht den Unterschied zwischen 'gesund-trocken' und 'saftig-aromatisch'.",
+    "Apfelessig macht den Teig elastischer und verlängert die Frische — schmeckt man nicht.",
+    "Backen sich auch perfekt einfrieren — am Morgen 5 Min. bei 180°C aufbacken.",
+    "Pro Brötchen ca. 175 kcal · 11 g Protein · 4 g Fett · 26 g KH · 4 g Ballaststoffe — passt zum Fitness-Frühstück."
+  ],
+  "notizen": "Vortag-Methode: Freitagabend ansetzen, Samstagmorgen formen + backen. Mehr Aroma, weniger Stress am Morgen."
+}
