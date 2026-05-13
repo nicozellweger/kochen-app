@@ -1,0 +1,47 @@
+{
+  "id": "curry-mango-sauce",
+  "titel": "Curry-Mango-Sauce",
+  "kategorie": "Sauce & Dip",
+  "tags": ["sauce", "dip", "chinoise", "fondue", "curry", "mango", "fruchtig", "make-ahead"],
+  "favorit": false,
+  "portionen": 4,
+  "portionenEinheit": "Portionen",
+  "aufwand": "einfach",
+  "zeit": {
+    "vorbereitung": 10,
+    "gesamt": 70
+  },
+  "zutaten": [
+    {
+      "gruppe": "Sauce",
+      "items": [
+        { "menge": 150, "einheit": "g", "name": "Mayonnaise", "abteilung": "Milchprodukte" },
+        { "menge": 100, "einheit": "g", "name": "Griechischer Joghurt (10%)", "abteilung": "Milchprodukte" },
+        { "menge": 80, "einheit": "g", "name": "Frische reife Mango (oder TK-Mango aufgetaut)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "EL", "name": "Mango-Chutney (z.B. Patak's)", "abteilung": "Gewürze & Öle" },
+        { "menge": 1.5, "einheit": "TL", "name": "Madras-Currypulver", "abteilung": "Gewürze & Öle" },
+        { "menge": 0.5, "einheit": "TL", "name": "Garam Masala", "abteilung": "Gewürze & Öle" },
+        { "menge": 0.5, "einheit": "TL", "name": "Frischer Ingwer, gerieben", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "TL", "name": "Honig", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "Spritzer", "name": "Limettensaft", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "Prise", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "TL", "name": "Frischer Koriander, fein gehackt (optional)", "abteilung": "Gemüse & Früchte" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Gewürze rösten: Madras-Currypulver und Garam Masala in einer kleinen trockenen Pfanne bei mittlerer Hitze 30-45 Sek rösten — von Hand mit dem Spatel ständig bewegen. Fertig sobald es nussig-würzig duftet. SOFORT in eine kalte Schüssel umfüllen, sonst verbrennt es in der Resthitze und wird bitter. Komplett auskühlen lassen.",
+    "Mango in Stücken schneiden. Mit dem Mango-Chutney im Stabmixer-Becher 10 Sek zu glattem Püree pürieren.",
+    "Mango-Püree in eine Schüssel umfüllen. Mayonnaise, griechischer Joghurt, das abgekühlte geröstete Gewürz, geriebener Ingwer, Honig und einen Spritzer Limettensaft mit dem Schwingbesen einrühren bis homogen.",
+    "Mit Salz abschmecken. Optional fein gehackten Koriander unterheben.",
+    "Mind. 1 Std im Kühlschrank durchziehen lassen — Currynoten werden runder und integrieren sich mit der fruchtigen Süsse."
+  ],
+  "tipps": [
+    "Curry rösten ist der grösste Geschmacks-Sprung — verdoppelt die Aromaintensität. Aber Vorsicht: Übergang von 'duftet' zu 'verbrannt' geht in 5 Sek.",
+    "Reife Mango ist wichtig — eine harte unreife Mango schmeckt fad. Falls nur unreife verfügbar: TK-Mango ist die bessere Wahl.",
+    "Bei Migros: Patak's Mango-Chutney im Asien-Regal.",
+    "Über Nacht durchgezogen schmeckt sie noch runder.",
+    "Hält im Kühli 4-5 Tage."
+  ],
+  "notizen": "Premium-Variante der Standard-Curry-Sauce mit frischer Mango und geröstetem Curry — fruchtig, würzig, ausbalanciert."
+}

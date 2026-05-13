@@ -1,0 +1,56 @@
+{
+  "id": "scharfe-cocktail-sauce",
+  "titel": "Scharfe Cocktail-Sauce",
+  "kategorie": "Sauce & Dip",
+  "tags": ["sauce", "dip", "chinoise", "fondue", "scharf", "make-ahead"],
+  "favorit": false,
+  "portionen": 4,
+  "portionenEinheit": "Portionen",
+  "aufwand": "einfach",
+  "zeit": {
+    "vorbereitung": 10,
+    "gesamt": 70
+  },
+  "zutaten": [
+    {
+      "gruppe": "Cocktail-Basis",
+      "items": [
+        { "menge": 200, "einheit": "g", "name": "Mayonnaise (z.B. Thomy)", "abteilung": "Milchprodukte" },
+        { "menge": 60, "einheit": "g", "name": "Ketchup", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "EL", "name": "Tomatenmark", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "TL", "name": "Honig", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "EL", "name": "Cognac (oder Whisky)", "abteilung": "Getränke" },
+        { "menge": 1, "einheit": "TL", "name": "Worcestersauce", "abteilung": "Gewürze & Öle" },
+        { "menge": 0.5, "einheit": "TL", "name": "Dijon-Senf", "abteilung": "Gewürze & Öle" },
+        { "menge": 0.5, "einheit": "TL", "name": "Geräuchertes Paprikapulver", "abteilung": "Gewürze & Öle" }
+      ]
+    },
+    {
+      "gruppe": "Schärfe (in 3 Schichten)",
+      "items": [
+        { "menge": 1, "einheit": "EL", "name": "Sriracha (fruchtige Schärfe)", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "TL", "name": "Sambal Oelek (fermentierte Tiefe)", "abteilung": "Gewürze & Öle" },
+        { "menge": 0.25, "einheit": "TL", "name": "Cayennepfeffer (Schärfe-Spitze)", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Stück", "name": "Rote Chili frisch, fein gehackt", "abteilung": "Gemüse & Früchte" },
+        { "menge": 0.5, "einheit": "TL", "name": "Limettensaft", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "Prise", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Weisser Pfeffer", "abteilung": "Gewürze & Öle" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Tomatenmark, Honig und Worcestersauce in einer kleinen Pfanne bei mittlerer Hitze 1 Min anrösten — mit dem Spatel ständig rühren. Sofort vom Herd nehmen, auf einen Teller umfüllen, 3-5 Min komplett auskühlen lassen.",
+    "Frische Chili von Hand mit dem Messer sehr fein hacken. Kerne mit für mehr Schärfe, ohne für milder.",
+    "In einer Schüssel mit dem Schwingbesen Mayonnaise, Ketchup, Cognac, Dijon-Senf, Paprikapulver und die abgekühlte Tomatenmark-Mischung glatt verrühren.",
+    "Sriracha, Sambal Oelek, Cayennepfeffer und gehackte frische Chili einrühren.",
+    "Mit Limettensaft, Salz und weissem Pfeffer abschmecken — Limette balanciert die Schärfe und macht sie frischer.",
+    "Mind. 1 Std (besser 2 h) im Kühlschrank durchziehen lassen — die Schärfe wird runder und vielschichtiger."
+  ],
+  "tipps": [
+    "3-Schicht-Schärfe ist der Trick: frisch (Chili), fruchtig (Sriracha), fermentiert (Sambal Oelek). Macht den Unterschied zu 'einfach Tabasco draufkippen'.",
+    "Schärfe entwickelt sich mit der Zeit — am Anfang kann sie milder wirken. Lieber etwas weniger Cayenne und nachschärfen.",
+    "Bei Migros: Sriracha von Flying Goose, Sambal Oelek im Asien-Regal.",
+    "Über Nacht schmeckt sie noch besser."
+  ],
+  "notizen": "Premium-Variante mit dreischichtiger Schärfe — kein einfaches 'Cocktail + Tabasco', sondern komplex und tief."
+}

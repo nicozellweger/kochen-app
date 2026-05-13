@@ -1,0 +1,45 @@
+{
+  "id": "cocktail-sauce",
+  "titel": "Cocktail-Sauce",
+  "kategorie": "Sauce & Dip",
+  "tags": ["sauce", "dip", "chinoise", "fondue", "klassiker", "make-ahead"],
+  "favorit": false,
+  "portionen": 4,
+  "portionenEinheit": "Portionen",
+  "aufwand": "einfach",
+  "zeit": {
+    "vorbereitung": 8,
+    "gesamt": 68
+  },
+  "zutaten": [
+    {
+      "gruppe": "Sauce",
+      "items": [
+        { "menge": 200, "einheit": "g", "name": "Mayonnaise (z.B. Thomy)", "abteilung": "Milchprodukte" },
+        { "menge": 60, "einheit": "g", "name": "Ketchup (Heinz oder vergleichbar)", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "EL", "name": "Tomatenmark", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "TL", "name": "Honig", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "EL", "name": "Cognac (oder Whisky)", "abteilung": "Getränke" },
+        { "menge": 1, "einheit": "TL", "name": "Worcestersauce", "abteilung": "Gewürze & Öle" },
+        { "menge": 0.5, "einheit": "TL", "name": "Dijon-Senf", "abteilung": "Gewürze & Öle" },
+        { "menge": 0.5, "einheit": "TL", "name": "Geräuchertes Paprikapulver", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Spritzer", "name": "Zitronensaft", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "Prise", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Weisser Pfeffer", "abteilung": "Gewürze & Öle" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Tomatenmark, Honig und Worcestersauce in einer kleinen Pfanne bei mittlerer Hitze 1 Min anrösten — mit dem Spatel ständig rühren. Fertig wenn die Farbe dunkler wird und es leicht karamellig duftet. Sofort vom Herd nehmen.",
+    "Auf einen Teller umfüllen und komplett auskühlen lassen (3-5 Min).",
+    "In einer Schüssel mit dem Schwingbesen Mayonnaise, Ketchup, Cognac, Dijon-Senf, Paprikapulver, die abgekühlte Tomatenmark-Mischung und einen Spritzer Zitronensaft glatt verrühren.",
+    "Mit Salz und weissem Pfeffer abschmecken.",
+    "Mind. 1 Std (besser 2 h) im Kühlschrank durchziehen lassen — Aromen runden sich, Tiefe entwickelt sich. Hält im Kühli 5 Tage."
+  ],
+  "tipps": [
+    "Tomatenmark-Honig-Reduktion ist der Trick — sie macht den Unterschied zwischen 'Mayo + Ketchup' und echter Cocktail-Sauce mit Tiefgang.",
+    "Über Nacht schmeckt sie noch besser.",
+    "Reste passen super zu Pommes, Kartoffelwedges oder als Burger-Sauce."
+  ],
+  "notizen": "Klassische Chinoise-Standard-Sauce mit Tiefgang durch geröstetes Tomatenmark."
+}

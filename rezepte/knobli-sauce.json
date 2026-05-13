@@ -1,0 +1,47 @@
+{
+  "id": "knobli-sauce",
+  "titel": "Knobli-Sauce",
+  "kategorie": "Sauce & Dip",
+  "tags": ["sauce", "dip", "chinoise", "fondue", "knoblauch", "make-ahead"],
+  "favorit": false,
+  "portionen": 4,
+  "portionenEinheit": "Portionen",
+  "aufwand": "einfach",
+  "zeit": {
+    "vorbereitung": 20,
+    "gesamt": 80
+  },
+  "zutaten": [
+    {
+      "gruppe": "Sauce",
+      "items": [
+        { "menge": 150, "einheit": "g", "name": "Mayonnaise", "abteilung": "Milchprodukte" },
+        { "menge": 100, "einheit": "g", "name": "Crème fraîche", "abteilung": "Milchprodukte" },
+        { "menge": 4, "einheit": "Stück", "name": "Knoblauchzehen (roh, frisch)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 2, "einheit": "Stück", "name": "Knoblauchzehen (zum Confieren, ungeschält)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 3, "einheit": "EL", "name": "Olivenöl (zum Confieren)", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "EL", "name": "Petersilie glatt, sehr fein gehackt", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "EL", "name": "Schnittlauch fein geschnitten", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "TL", "name": "Olivenöl extra vergine (für die Sauce)", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Spritzer", "name": "Zitronensaft", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "Prise", "name": "Salz (grob, für Mörser)", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Weisser Pfeffer", "abteilung": "Gewürze & Öle" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Knoblauch confieren: 2 ungeschälte Knoblauchzehen mit 3 EL Olivenöl in einer kleinen Pfanne bei niedriger Hitze 10-12 Min weichgaren. Fertig wenn die Zehen goldgelb und beim Eindrücken weich-cremig sind. Vom Herd nehmen, auskühlen lassen. Aus der Schale drücken — wird zu süsslich-nussiger Paste.",
+    "Die 4 rohen Knoblauchzehen schälen. Mit einer Prise grobem Salz im Mörser zu einer feinen Paste zerstossen — Salz wirkt wie Schleifmittel und macht den Knoblauch fein. Wenn kein Mörser da: durch die Knoblauchpresse drücken und mit Messer auf einem Brett mit der Salzprise fein hacken.",
+    "Beide Knoblauchpasten (rohe Mörserpaste + abgekühlte confierte Paste) in einer Schüssel vermischen — gibt zwei Texturen: scharf-frisch + tief-süsslich.",
+    "Mayonnaise, Crème fraîche, fein gehackte Petersilie, Schnittlauch, 1 TL Olivenöl extra vergine und einen Spritzer Zitronensaft dazugeben. Mit dem Schwingbesen glatt verrühren.",
+    "Mit Salz und weissem Pfeffer abschmecken.",
+    "Mind. 1 Std im Kühlschrank durchziehen lassen. Über Nacht wird der rohe Knoblauch milder und runder — Sauce schmeckt am nächsten Tag besser."
+  ],
+  "tipps": [
+    "Zwei Knoblauch-Texturen sind der Trick: roh für die scharfe Frische, confiert für die süsslich-nussige Tiefe. Nur rohe = beisst zu sehr.",
+    "Confier-Öl nicht wegschmeissen — schmeckt nach Knoblauch und ist genial für Salatdressings oder zum Anbraten.",
+    "Wenn der rohe Knoblauch über Nacht zu mild wurde: kurz vor dem Servieren noch eine halbe rohe Zehe nachträglich pressen.",
+    "Hält im Kühli 3-4 Tage."
+  ],
+  "notizen": "Premium-Aioli-Style-Sauce für Chinoise. Doppelter Knoblauch-Hit ohne dass sie aggressiv schmeckt."
+}

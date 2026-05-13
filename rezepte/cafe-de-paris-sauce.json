@@ -1,0 +1,51 @@
+{
+  "id": "cafe-de-paris-sauce",
+  "titel": "Café de Paris Sauce (frische Kräuter)",
+  "kategorie": "Sauce & Dip",
+  "tags": ["sauce", "dip", "chinoise", "fondue", "café-de-paris", "klassiker", "make-ahead"],
+  "favorit": false,
+  "portionen": 4,
+  "portionenEinheit": "Portionen",
+  "aufwand": "einfach",
+  "zeit": {
+    "vorbereitung": 15,
+    "gesamt": 135
+  },
+  "zutaten": [
+    {
+      "gruppe": "Sauce",
+      "items": [
+        { "menge": 150, "einheit": "g", "name": "Crème fraîche", "abteilung": "Milchprodukte" },
+        { "menge": 100, "einheit": "g", "name": "Mayonnaise", "abteilung": "Milchprodukte" },
+        { "menge": 1, "einheit": "Stück", "name": "Knoblauchzehe", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "Stück", "name": "Sardelle in Öl", "abteilung": "Fleisch & Fisch" },
+        { "menge": 1, "einheit": "TL", "name": "Kapern", "abteilung": "Sonstiges" },
+        { "menge": 1, "einheit": "TL", "name": "Dijon-Senf", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "EL", "name": "Petersilie glatt, sehr fein gehackt", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "TL", "name": "Schnittlauch fein geschnitten", "abteilung": "Gemüse & Früchte" },
+        { "menge": 0.5, "einheit": "TL", "name": "Estragon frisch fein gehackt", "abteilung": "Gemüse & Früchte" },
+        { "menge": 0.5, "einheit": "TL", "name": "Paprikapulver edelsüss", "abteilung": "Gewürze & Öle" },
+        { "menge": 0.25, "einheit": "TL", "name": "Currypulver", "abteilung": "Gewürze & Öle" },
+        { "menge": 0.5, "einheit": "EL", "name": "Cognac", "abteilung": "Getränke" },
+        { "menge": 1, "einheit": "Spritzer", "name": "Zitronensaft", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "Prise", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Schwarzer Pfeffer frisch gemahlen", "abteilung": "Gewürze & Öle" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Knoblauch schälen und durch die Knoblauchpresse drücken (oder fein hacken).",
+    "Sardelle und Kapern von Hand mit dem Messer fein hacken — fast zu einer Paste. Die Sardelle gibt der Sauce ihre Umami-Tiefe, ist aber später nicht mehr rausschmeckbar.",
+    "Petersilie, Schnittlauch und Estragon mit dem Messer sehr fein hacken.",
+    "In einer Schüssel mit dem Schwingbesen Crème fraîche, Mayonnaise, Dijon-Senf, Knoblauch, Sardellen-Kapern-Paste, alle Kräuter, Paprika, Curry, Cognac und einen Spritzer Zitronensaft glatt verrühren.",
+    "Mit Salz und frisch gemahlenem Pfeffer abschmecken — soll kräftig gewürzt sein.",
+    "Mind. 2 h (besser über Nacht) im Kühlschrank durchziehen lassen — die Sardelle gibt erst nach Zeit ihren vollen Umami ab und die Kräuter aromatisieren die Creme."
+  ],
+  "tipps": [
+    "Sardelle ist Pflicht — die schmeckt man nicht raus, sie bringt aber die unverwechselbare Café-de-Paris-Tiefe. Ohne Sardelle nur Kräutermayo.",
+    "Estragon getrocknet geht auch (¼ TL statt ½ TL frisch), frisch ist aber deutlich besser.",
+    "Wenn keine Kapern da: 1 TL fein gehackte Cornichons als Notlösung.",
+    "Hält im Kühli 4 Tage."
+  ],
+  "notizen": "Cremige Sauce-Variante mit den klassischen Café-de-Paris-Aromen — passt zu Chinoise, Steak und gegrilltem Gemüse."
+}
