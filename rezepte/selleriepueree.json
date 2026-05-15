@@ -1,0 +1,46 @@
+{
+  "id": "selleriepueree",
+  "titel": "Selleriepüree",
+  "kategorie": "Beilage",
+  "tags": ["beilage", "vegetarisch", "low-carb", "püree", "schmorgericht", "schnell"],
+  "favorit": false,
+  "portionen": 4,
+  "portionenEinheit": "Portionen",
+  "aufwand": "einfach",
+  "zeit": {
+    "vorbereitung": 5,
+    "gesamt": 30
+  },
+  "zutaten": [
+    {
+      "gruppe": "Selleriepüree",
+      "items": [
+        { "menge": 600, "einheit": "g", "name": "Knollensellerie", "abteilung": "Gemüse & Früchte" },
+        { "menge": 300, "einheit": "ml", "name": "Milch", "abteilung": "Milchprodukte" },
+        { "menge": 100, "einheit": "ml", "name": "Wasser", "abteilung": "Sonstiges" },
+        { "menge": 40, "einheit": "g", "name": "Butter", "abteilung": "Milchprodukte" },
+        { "menge": 1, "einheit": "Stück", "name": "Lorbeerblatt", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Muskat (frisch gerieben)", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Weisser Pfeffer", "abteilung": "Gewürze & Öle" },
+        { "menge": 2, "einheit": "EL", "name": "Crème fraîche (optional)", "abteilung": "Milchprodukte" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Sellerie mit dem Messer zuerst in Spalten teilen, dann mit Sparschäler oder Messer schälen (Schale ist hart und holzig). In ca. 2 cm gleichmässige Würfel schneiden — gleiche Grösse damit alles gleichzeitig gar wird.",
+    "Garen in einem grossen Topf mit Deckel bei mittlerer Hitze: Sellerie, Milch, Wasser, Butter und Lorbeerblatt reingeben. Aufkochen lassen, dann auf niedrige Hitze reduzieren. Deckel leicht versetzt auflegen (Milch kocht sonst über). 18-22 Min köcheln. Fertig wenn ein Messer mühelos in die Würfel gleitet.",
+    "Lorbeerblatt rausfischen. Die Garflüssigkeit zu 2/3 in eine Tasse abgiessen und beiseite stellen — kommt evtl. zurück.",
+    "Pürieren mit dem Stabmixer direkt im Topf, 30-45 Sek auf höchster Stufe. Soll seidig glatt sein, fast wie Glace-Konsistenz. Falls zu dick: löffelweise Garflüssigkeit zurückgeben und nochmal mixen. Falls zu flüssig: ist meistens nicht das Problem, sonst auf kleiner Hitze offen einkochen lassen.",
+    "Optional: 2 EL Crème fraîche einrühren für extra Cremigkeit und subtile Säure.",
+    "Abschmecken mit Salz, weissem Pfeffer und frisch geriebenem Muskat. Soll dezent süsslich-nussig schmecken, nicht aufdringlich.",
+    "Warmhalten im Topf mit Deckel auf kleinster Stufe. Falls's länger steht: gelegentlich umrühren, bei Bedarf ein Schluck Milch nachgiessen wenn's zu dick wird."
+  ],
+  "tipps": [
+    "Lorbeer in der Garflüssigkeit ist der unterschätzte Trick — gibt subtile Tiefe, kennt man oft nicht, schmeckt aber sofort dass etwas 'stimmt'.",
+    "Wenn du keinen Stabmixer hast: Sellerie abgiessen (Flüssigkeit auffangen), in einen Standmixer geben, schrittweise pürieren — dauert länger aber funktioniert.",
+    "Perfekte KH-arme Alternative zu Risotto oder Polenta — saugt Schmorsaucen genauso schön auf.",
+    "Reste: am nächsten Tag mit etwas Milch aufwärmen, oder als Beigabe zu Eiern und Würzfleisch verwenden."
+  ],
+  "notizen": "Cremig, samtig, low-carb. Saugt Schmorsaucen perfekt auf — top Bett für Osso Buco, Lammschulter oder Boeuf Bourguignon."
+}

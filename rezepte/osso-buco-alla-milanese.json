@@ -1,0 +1,78 @@
+{
+  "id": "osso-buco-alla-milanese",
+  "titel": "Osso Buco alla Milanese",
+  "kategorie": "Hauptgang",
+  "tags": ["italienisch", "schmoren", "klassiker", "für-gäste", "ofen", "vortag-tauglich", "rind"],
+  "favorit": false,
+  "portionen": 4,
+  "portionenEinheit": "Portionen",
+  "aufwand": "mittel",
+  "zeit": {
+    "vorbereitung": 30,
+    "gesamt": 210
+  },
+  "zutaten": [
+    {
+      "gruppe": "Fleisch",
+      "items": [
+        { "menge": 4, "einheit": "Scheibe", "name": "Rindshaxe-Scheiben (ca. 4 cm dick, mit Markknochen, à 250 g)", "abteilung": "Fleisch & Fisch" },
+        { "menge": 2, "einheit": "EL", "name": "Mehl (zum Bestäuben)", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 2, "einheit": "EL", "name": "Olivenöl (zum Anbraten)", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Schwarzer Pfeffer", "abteilung": "Gewürze & Öle" }
+      ]
+    },
+    {
+      "gruppe": "Soffritto",
+      "items": [
+        { "menge": 1, "einheit": "Stück", "name": "Grosse Zwiebel", "abteilung": "Gemüse & Früchte" },
+        { "menge": 2, "einheit": "Stück", "name": "Karotten", "abteilung": "Gemüse & Früchte" },
+        { "menge": 2, "einheit": "Stange", "name": "Stangensellerie", "abteilung": "Gemüse & Früchte" },
+        { "menge": 3, "einheit": "Stück", "name": "Knoblauchzehen", "abteilung": "Gemüse & Früchte" }
+      ]
+    },
+    {
+      "gruppe": "Schmorsauce",
+      "items": [
+        { "menge": 1, "einheit": "EL", "name": "Tomatenmark", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "EL", "name": "Olivenöl (extra für Soffritto)", "abteilung": "Gewürze & Öle" },
+        { "menge": 400, "einheit": "g", "name": "Gehackte Tomaten (Dose)", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 300, "einheit": "ml", "name": "Rotwein, trocken", "abteilung": "Getränke" },
+        { "menge": 500, "einheit": "ml", "name": "Rinderbouillon", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 2, "einheit": "Stück", "name": "Lorbeerblätter", "abteilung": "Gewürze & Öle" },
+        { "menge": 2, "einheit": "Zweig", "name": "Rosmarin oder Thymian", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "Stück", "name": "Streifen Bio-Zitronenschale (nur Gelbes)", "abteilung": "Gemüse & Früchte" }
+      ]
+    },
+    {
+      "gruppe": "Gremolata",
+      "items": [
+        { "menge": 1, "einheit": "Bund", "name": "Glattblättrige Petersilie", "abteilung": "Gemüse & Früchte" },
+        { "menge": 2, "einheit": "Stück", "name": "Knoblauchzehen", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "Stück", "name": "Bio-Zitrone (Abrieb)", "abteilung": "Gemüse & Früchte" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Vorbereitung: Rindshaxenscheiben mit Küchenpapier trocken tupfen. Mit einem scharfen Messer das Bindegewebe am Rand jeder Scheibe alle 3 cm einschneiden — verhindert dass sich die Scheiben beim Anbraten zu Schüsseln aufwölben. Rundum mit Salz und Pfeffer würzen, dünn mit Mehl bestäuben, überschüssiges Mehl abklopfen.",
+    "Soffritto schneiden von Hand mit dem Messer: Zwiebel, Karotten und Sellerie sehr fein würfeln (3-4 mm). Knoblauch separat fein hacken — kommt später dazu damit er nicht verbrennt.",
+    "Anbraten in einem schweren Bräter mit Deckel (Gusseisen ideal) bei hoher Hitze: 2 EL Olivenöl erhitzen. Haxenscheiben rundum scharf anbraten, 3-4 Min pro Seite. Auch die Rundseiten anrösten. Fertig: tiefbraune Maillard-Kruste rundum. Bei Bedarf in 2 Durchgängen — nicht überfüllen. Scheiben rausnehmen, beiseite stellen.",
+    "Soffritto anschwitzen im gleichen Bräter bei mittlerer Hitze: 1 EL Olivenöl extra dazu falls nötig. Soffritto (ohne Knoblauch) 8-10 Min sanft anschwitzen — mit dem Spatel die Röststoffe am Boden gut loskratzen, sie geben der Sauce Tiefe. Fertig wenn Gemüse glasig-weich und süsslich duftet, nicht gebräunt.",
+    "Knoblauch dazu, 1 Min mitrösten. Tomatenmark einrühren, 1-2 Min mitrösten bis es dunkler wird und leicht karamellisiert — entzieht die Säure, bringt Umami.",
+    "Mit Rotwein ablöschen, Boden gut auskratzen. Auf hoher Hitze einkochen lassen bis der Wein sirupartig ist und der Topfboden fast trocken — ca. 5 Min. Das ist der wichtigste Geschmacks-Schritt.",
+    "Gehackte Tomaten, Rinderbouillon, Lorbeerblätter, Rosmarinzweige und Zitronenschale dazugeben. Aufkochen.",
+    "Backofen oder Combi-Steamer auf 160°C Ober-/Unterhitze vorheizen (KEIN Dampf, normale Heissluft). Haxenscheiben in die Sauce einlegen — sollen zu 2/3 in der Flüssigkeit liegen, der Markknochen-Teil etwas über der Oberfläche.",
+    "Schmoren mit Deckel im Ofen, 2.5-3 h. Nach 90 Min die Scheiben einmal vorsichtig wenden. Fertig: Fleisch lässt sich mit zwei Gabeln mühelos einstechen und teilen, fällt fast vom Knochen, Markknochen ist noch ganz.",
+    "Gremolata in den letzten 10 Min: Petersilienblätter abzupfen. Mit Knoblauch und Zitronenabrieb von Hand mit dem Messer sehr fein hacken bis alles zu einer aromatischen Mischung verbunden ist. NICHT im Mixer — wird zu Pampe.",
+    "Sauce abschmecken: Haxenscheiben rausnehmen, warm halten (z.B. unter Alufolie auf einem warmen Teller). Lorbeer und Kräuterstiele aus der Sauce fischen. Falls Sauce zu flüssig: kurz auf hoher Hitze 5-10 Min einkochen bis sie sirupartig vom Löffel fliesst. Mit Salz und Pfeffer abschmecken.",
+    "Anrichten auf vorgewärmten Tellern: Sellerie-Klacks (siehe separates Rezept) oder Polenta als Bett, Haxenscheibe drauf, grosszügig Sauce drüberlöffeln. Gremolata frisch auf jede Scheibe streuen. Markknochen mit kleinem Espressolöffel oder Markbein-Heber rausholen — bestes Stück."
+  ],
+  "tipps": [
+    "Vortag-Methode: Am Tag vorher schmoren, kühl stellen, am nächsten Tag bei 140°C 30 Min aufwärmen. Deutlich mehr Geschmack.",
+    "Mehl-Bestäuben macht die Sauce am Schluss von selbst sämig — keine Mehlschwitze nötig.",
+    "Wein: einer den du auch trinken würdest. Kein Kochwein aus dem Billig-Regal.",
+    "Gremolata erst kurz vor dem Servieren hacken — sonst verliert sie ihre Zitronenfrische.",
+    "Reste: Fleisch vom Knochen lösen, klein zupfen, mit Pappardelle vermischen — geniales Ragout."
+  ],
+  "notizen": "Italienischer Klassiker — geschmorte Rindshaxe in Wein-Tomatensauce mit Gremolata-Topping. Klassische Beilage: Selleriepüree (low carb) oder Risotto alla Milanese."
+}

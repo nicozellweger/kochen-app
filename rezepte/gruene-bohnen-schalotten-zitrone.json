@@ -1,0 +1,51 @@
+{
+  "id": "gruene-bohnen-schalotten-zitrone",
+  "titel": "Grüne Bohnen mit Schalotten & Zitrone",
+  "kategorie": "Beilage",
+  "tags": ["beilage", "vegetarisch", "low-carb", "frisch", "schnell", "sommer"],
+  "favorit": false,
+  "portionen": 4,
+  "portionenEinheit": "Portionen",
+  "aufwand": "einfach",
+  "zeit": {
+    "vorbereitung": 10,
+    "gesamt": 20
+  },
+  "zutaten": [
+    {
+      "gruppe": "Bohnen",
+      "items": [
+        { "menge": 400, "einheit": "g", "name": "Frische grüne Bohnen", "abteilung": "Gemüse & Früchte" },
+        { "menge": 2, "einheit": "Stück", "name": "Schalotten", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "Stück", "name": "Knoblauchzehe", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "EL", "name": "Olivenöl", "abteilung": "Gewürze & Öle" },
+        { "menge": 20, "einheit": "g", "name": "Butter", "abteilung": "Milchprodukte" },
+        { "menge": 1, "einheit": "Spritzer", "name": "Zitronensaft", "abteilung": "Gemüse & Früchte" },
+        { "menge": 0.5, "einheit": "TL", "name": "Bio-Zitronenabrieb", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "EL", "name": "Mandelblättchen (optional)", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "Prise", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Schwarzer Pfeffer", "abteilung": "Gewürze & Öle" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Bohnen putzen: Enden mit dem Messer abschneiden, sehr lange Bohnen einmal halbieren.",
+    "Blanchieren in einem grossen Topf Salzwasser, daneben Schüssel mit Eiswasser vorbereiten. Wasser aufkochen, Bohnen reingeben, 3-4 Min blanchieren. Fertig: knallgrün und bissfest (Biss-Test: leicht knackig, kein Widerstand). Sofort mit der Schaumkelle in Eiswasser abschrecken — stoppt das Garen und fixiert die Farbe.",
+    "Bohnen aus dem Eiswasser nehmen und auf Küchenpapier abtropfen lassen.",
+    "Schalotten und Knoblauch von Hand mit dem Messer fein würfeln.",
+    "Mandelblättchen rösten (optional, parallel) in einer trockenen Pfanne bei mittlerer Hitze 2 Min. Fertig: goldbraun und nussig duftend. Sofort umfüllen — sonst verbrennen sie in der Resthitze.",
+    "Sautieren KURZ vor dem Servieren in einer grossen Pfanne bei mittlerer Hitze: Olivenöl erhitzen, Schalotten 2 Min glasig dünsten — nicht bräunen.",
+    "Knoblauch dazu, 30 Sek mitrösten (NICHT bräunen, sonst wird er bitter).",
+    "Butter dazu, schmelzen lassen. Bohnen einlegen und 2-3 Min schwenken bis sie durchgewärmt sind. Sollen knackig bleiben, nicht weich werden.",
+    "Vom Herd nehmen: Zitronensaft und Abrieb über die Bohnen geben. Mit Salz und Pfeffer abschmecken. Optional Mandelblättchen drüberstreuen.",
+    "Sofort servieren."
+  ],
+  "tipps": [
+    "Erst kurz vor dem Servieren sautieren — sonst werden die Bohnen grau-grün und schlapp.",
+    "Blanchieren + Eiswasser ist Pflicht für die knallgrüne Farbe. Direktes Kochen macht sie matt-olivgrün.",
+    "Bio-Zitronenabrieb (gleiche Zitrone wie z.B. für Gremolata bei Osso Buco) ergibt die Verbindung zum Hauptgericht.",
+    "Variante mit mehr Knusper: 2 EL fein gehackte Walnüsse statt Mandelblättchen.",
+    "Vegan: Butter weglassen, einfach mehr Olivenöl."
+  ],
+  "notizen": "Frische, knackige Beilage die schwere Schmorgerichte schneidet. Top zu Osso Buco, Lammschulter oder Reverse-Sear-Steaks."
+}
