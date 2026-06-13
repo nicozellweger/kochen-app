@@ -1,0 +1,58 @@
+{
+  "id": "rindsbaeggli-sous-vide",
+  "titel": "Rindsbäggli Sous Vide (Make-ahead)",
+  "kategorie": "Hauptgang",
+  "tags": ["sous-vide", "rind", "fleisch", "make-ahead", "für-gäste", "thai", "premium"],
+  "favorit": false,
+  "portionen": 5,
+  "portionenEinheit": "Stück",
+  "aufwand": "aufwändig",
+  "zeit": {
+    "vorbereitung": 30,
+    "gesamt": 2895
+  },
+  "zutaten": [
+    {
+      "gruppe": "Fleisch",
+      "items": [
+        { "menge": 5, "einheit": "Stück", "name": "Rindsbäggli à 250 g (pariert: dicke äussere Silberhaut weg, inneres Bindegewebe drin lassen)", "abteilung": "Fleisch & Fisch" },
+        { "menge": 1, "einheit": "Prise", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Schwarzer Pfeffer", "abteilung": "Gewürze & Öle" }
+      ]
+    },
+    {
+      "gruppe": "Pro Vakuumbeutel",
+      "items": [
+        { "menge": 1, "einheit": "Stück", "name": "Lorbeerblatt", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "TL", "name": "Neutrales Öl (hoher Rauchpunkt)", "abteilung": "Gewürze & Öle" }
+      ]
+    },
+    {
+      "gruppe": "Für den Final-Sear",
+      "items": [
+        { "menge": 2, "einheit": "EL", "name": "Neutrales Öl mit hohem Rauchpunkt (Rapsöl raffiniert, KEIN Olivenöl)", "abteilung": "Gewürze & Öle" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Optional Pre-Sear (gibt der Sauce später Röstaromen): Bäggli mit Küchenpapier trocken tupfen. In einer rauchend heissen Gusseisenpfanne 45-60 Sek pro Seite hart anbraten — nur Maillard, nicht durchgaren. Vollständig abkühlen lassen (sonst startet das Sous Vide bei zu hoher Temperatur).",
+    "Jedes Stück einzeln salzen und pfeffern. In Vakuumbeutel (2-3 Stück flach pro Beutel, damit sie nicht aufeinanderliegen) + 1 Lorbeerblatt + 1 TL neutrales Öl pro Beutel. Vakuumieren — Beutel möglichst eng am Fleisch.",
+    "Sous Vide bei 68°C, 48 Std. Verdunstungsschutz: Frischhaltefolie direkt auf die Wasseroberfläche legen + Topfdeckel drauf. Wasserstand alle 12 Std prüfen und ggf. heisses Wasser nachgiessen.",
+    "Beutel aus dem Wasserbad nehmen, sofort in ein Eisbad (50:50 Eis/Wasser) — Beutel bleibt verschlossen drin, 30-45 Min bis Kerntemperatur ≤5°C. Dann in den Kühlschrank. Im Vakuum 4-5 Tage haltbar.",
+    "Am Service-Tag: Re-Heating bei 60°C im Wasserbad oder Combi-Steamer (reiner Dampf), 60 Min. Kerntemperatur am Ende prüfen — muss ≥55°C sein.",
+    "Beutel öffnen, den Beutelfond für die Sauce in eine Tasse abgiessen — nicht wegwerfen, gibt der Sauce Tiefe.",
+    "Bäggli gründlich mit Küchenpapier trocken tupfen — eine trockene Oberfläche ist Pflicht für eine gute Kruste.",
+    "Final-Sear in sehr heisser Gusseisenpfanne mit neutralem Öl (hoher Rauchpunkt — Rapsöl raffiniert, KEIN Olivenöl, das raucht zu früh). Schauseite zuerst nach unten, 60-90 Sek NICHT bewegen. EIN Flip mit einem breiten Fischwender (Bäggli zerfallen sonst), Rückseite 15-20 Sek. Fertig.",
+    "3 Min ruhen lassen — Fleisch entspannt, Säfte stabilisieren sich.",
+    "Anrichten: Saucenspiegel auf vorgewärmten Teller, Bäggli mit der Kruste nach OBEN drauflegen. Nicht mit Sauce übergiessen — sonst wird die Kruste matschig."
+  ],
+  "tipps": [
+    "48 h bei 68°C ist das Sweet Spot: Kollagen baut sich vollständig zu Gelatine ab, Fleisch wird butterzart, ohne wässrig zu werden.",
+    "Kein Sternanis oder Zimt im Beutel — überextrahieren bei 48 h und machen das Fleisch parfümiert.",
+    "Verdunstungsschutz ist Pflicht bei 48 h. Ohne Frischhaltefolie sinkt der Wasserstand und das Bad kühlt aus.",
+    "Beutelfond ist Gold — gibt der Sauce (z.B. Massaman) Fleisch-Umami das anders nicht reinkommt.",
+    "Make-ahead-Star: Komplett vorbereitet bis und mit Eisbad, am Service-Tag nur Re-Heating + Sear (max. 90 Min Arbeit am Abend).",
+    "Passt perfekt zur Massaman-Sauce + Kokos-Gnocchi aus der App."
+  ],
+  "notizen": "Premium-Make-ahead-Gericht für Gäste. Hauptarbeit Tage vorher, am Abend selber nur 90 Min."
+}

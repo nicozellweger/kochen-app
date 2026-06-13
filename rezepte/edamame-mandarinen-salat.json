@@ -1,0 +1,55 @@
+{
+  "id": "edamame-mandarinen-salat",
+  "titel": "Edamame-Mandarinen-Salat (im Salatblatt)",
+  "kategorie": "Vorspeise",
+  "tags": ["vorspeise", "salat", "asia", "edamame", "frisch", "vegetarisch", "low-carb", "fingerfood"],
+  "favorit": false,
+  "portionen": 5,
+  "portionenEinheit": "Teller",
+  "aufwand": "einfach",
+  "zeit": {
+    "vorbereitung": 20,
+    "gesamt": 25
+  },
+  "zutaten": [
+    {
+      "gruppe": "Salat (Mengen pro Teller × 5)",
+      "items": [
+        { "menge": 5, "einheit": "Stück", "name": "Feste Salatblätter (Little Gem oder Kopfsalatherz) als Körbchen", "abteilung": "Gemüse & Früchte" },
+        { "menge": 250, "einheit": "g", "name": "Edamame in der Schote (TK oder frisch)", "abteilung": "Tiefkühl" },
+        { "menge": 5, "einheit": "EL", "name": "Granatapfelkerne", "abteilung": "Gemüse & Früchte" },
+        { "menge": 3, "einheit": "Stück", "name": "Orangen (für 15 Filets)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "Bund", "name": "Frischer Koriander", "abteilung": "Gemüse & Früchte" }
+      ]
+    },
+    {
+      "gruppe": "Vinaigrette",
+      "items": [
+        { "menge": 3, "einheit": "EL", "name": "Orangensaft frisch", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "EL", "name": "Reisessig", "abteilung": "Gewürze & Öle" },
+        { "menge": 2, "einheit": "EL", "name": "Neutrales Öl", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Zucker", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "Prise", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Spritzer", "name": "Limettensaft (optional)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 3, "einheit": "Tropfen", "name": "Sesamöl (optional, sparsam)", "abteilung": "Gewürze & Öle" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Edamame in einem grossen Topf Salzwasser 3 Min blanchieren — von TK direkt rein, ohne Auftauen. Sofort in eine Schüssel mit Eiswasser abschrecken, stoppt das Garen und hält die Edamame knallgrün.",
+    "Edamame aus dem Eiswasser nehmen, abtropfen lassen. Aus den Schoten lösen — Hülsen aufdrücken, Bohnen rauspopen.",
+    "Orangen filetieren: Mit scharfem Messer Schale komplett wegschneiden (auch die weisse Haut). Dann zwischen den Trennhäuten die Filets rausschneiden. Pro Teller 3 Filets — total 15 für 5 Personen.",
+    "Granatapfel entkernen: In Hälften schneiden, mit Schnittseite nach unten in der Hand halten, mit dem Holzkochlöffel auf die Schale klopfen — Kerne fallen raus.",
+    "Vinaigrette in einer kleinen Schüssel: Orangensaft, Reisessig, neutrales Öl, Zucker, Salz mit der Gabel verquirlen bis emulgiert. Optional 1 Spritzer Limettensaft und WENIGE Tropfen Sesamöl — Sesamöl sehr sparsam, sonst überlagert.",
+    "Salatblätter waschen und trocken tupfen — müssen knackig-trocken sein. Wenn Stiele zu lang: am Boden gerade abschneiden, damit das Körbchen stabil steht.",
+    "ERST kurz vor dem Servieren zusammensetzen: Salatblatt auf den Teller legen, Edamame und Granatapfelkerne hineingeben, 3 Orangenfilets oben drauf platzieren, 2-3 Korianderblättchen, Vinaigrette sparsam darüberlöffeln (ca. 1 TL pro Teller).",
+    "Sofort servieren."
+  ],
+  "tipps": [
+    "NICHT vorab anmachen — sonst fällt der Salat zusammen, das Salatblatt wird welk und die Vinaigrette dünstet das Grüne aus.",
+    "Edamame, Filets, Granatapfelkerne und Vinaigrette können alle 2-3 Std vorab vorbereitet werden — nur das finale Zusammensetzen ist last-minute.",
+    "Wenn keine Mandarine: rosa Grapefruit gibt schöne Farbe und Bitter-Akzent.",
+    "Fingerfood-Variante: einzelne kleine Salatblätter als Amuse-Bouche reichen."
+  ],
+  "notizen": "Frische, helle Vorspeise mit Asia-Touch. Passt zum Thai-Menü mit Rindsbäggli + Massaman."
+}

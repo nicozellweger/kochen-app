@@ -1,0 +1,53 @@
+{
+  "id": "massaman-sauce",
+  "titel": "Massaman-Sauce (nussig, mit Kokoscreme-Cracking)",
+  "kategorie": "Sauce & Dip",
+  "tags": ["sauce", "thai", "kokosmilch", "nussig", "make-ahead", "asia"],
+  "favorit": false,
+  "portionen": 5,
+  "portionenEinheit": "Portionen",
+  "aufwand": "mittel",
+  "zeit": {
+    "vorbereitung": 15,
+    "gesamt": 75
+  },
+  "zutaten": [
+    {
+      "gruppe": "Sauce",
+      "items": [
+        { "menge": 2, "einheit": "Stück", "name": "Kokosmilch vollfett (Dosen à 400 ml, Aroy-D oder Chaokoh — brechen zuverlässig)", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 100, "einheit": "g", "name": "Mae Ploy Massaman Paste", "abteilung": "Gewürze & Öle" },
+        { "menge": 100, "einheit": "g", "name": "Cashews ungesalzen", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 2, "einheit": "EL", "name": "Tamarindenpaste (Konzentrat: 1/3 davon)", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "EL", "name": "Fischsauce (zu Beginn, Rest später)", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "EL", "name": "Fischsauce zum Abschmecken", "abteilung": "Gewürze & Öle" },
+        { "menge": 3, "einheit": "EL", "name": "Palmzucker", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "Stück", "name": "Zwiebel", "abteilung": "Gemüse & Früchte" },
+        { "menge": 200, "einheit": "ml", "name": "Wasser", "abteilung": "Sonstiges" },
+        { "menge": 1, "einheit": "Schöpfkelle", "name": "Beutelfond aus den Sous-Vide-Beuteln (am Service-Tag)", "abteilung": "Sonstiges" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Vorbereitung: Kokosdosen müssen kalt und UNGESCHÜTTELT sein, damit sich die dicke Creme oben absetzt. Dosen vorsichtig öffnen.",
+    "Etwa 200 ml dicke Kokoscreme oben abschöpfen (mit Löffel oder Suppenkelle) und in einen Topf geben. Bei mittlerer Hitze 6-8 Min köcheln lassen. Fertig: das Öl bricht aus, die Creme wird rötlich-ölig — das ist das gewollte Cracking, ohne das fehlt der Massaman-Charakter.",
+    "Mae-Ploy-Paste in dieser gecrackten Creme einrühren und 3-5 Min bei mittlerer Hitze braten. Mit Spatel ständig rühren — NICHT verbrennen. Fertig: Paste duftet intensiv-aromatisch und das Öl ist tiefrot. KEIN extra Öl zugeben.",
+    "2 EL des roten Curry-Öls vorsichtig abschöpfen und in einer Tasse für den Anricht-Drizzle aufheben.",
+    "Zwiebel von Hand mit dem Messer fein würfeln. 3 Min in der Paste mitdünsten.",
+    "Restliche Kokosmilch (Dosen-Rest, gut umgerührt) + Wasser + Cashews dazugeben. Aufkochen.",
+    "Tamarindenpaste + 1 EL Fischsauce + Palmzucker einrühren. Bei niedriger Hitze 30-40 Min sanft simmern — Cashews werden weich, Aromen integrieren sich.",
+    "Mit dem Stabmixer direkt im Topf 1-2 Min pürieren. Fertig: glatt, cremig, sichtbar nussig. Falls zu dick: heisses Wasser löffelweise zugeben.",
+    "Am Service-Tag: Beutelfond aus den Sous-Vide-Bäggli durch ein feines Sieb in die Sauce einrühren, einmal aufwallen lassen, dann erst final abschmecken.",
+    "Balance prüfen — süss (Palmzucker) / salzig (Reserve-Fischsauce) / sauer (Tamarinde) / würzig (Paste). Mit der 2. EL Fischsauce nachsalzen wenn nötig.",
+    "Beim Anrichten: Saucenspiegel auf den Teller, Bäggli mit Kruste nach oben drauf, 1 TL aufgehobenes rotes Curry-Öl darüber drizzeln."
+  ],
+  "tipps": [
+    "Keine Light-Kokosmilch nehmen — die bricht nicht und du verlierst das ganze Cracking-Aroma.",
+    "Aroy-D und Chaokoh sind die zwei Marken die zuverlässig brechen. Andere wie Cocomas oder K-Classic sind hit or miss.",
+    "Paste auf keinen Fall verbrennen — wird bitter und ist nicht zu retten.",
+    "Tamarinde dosieren je nach Säure: Marken-Tamarinde unterschiedlich konzentriert. Lieber weniger und nachgeben.",
+    "Sauce kann komplett vorbereitet werden, am Service-Tag nur Beutelfond einrühren und nachschmecken.",
+    "Hält im Kühli 3-4 Tage, einfrierbar."
+  ],
+  "notizen": "Premium-Thai-Sauce für Rindsbäggli oder andere Sous-Vide-Fleischstücke. Cracking-Technik ist der Schlüssel."
+}

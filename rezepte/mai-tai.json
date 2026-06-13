@@ -1,0 +1,52 @@
+{
+  "id": "mai-tai",
+  "titel": "Mai Tai (klassisch)",
+  "kategorie": "Apéro",
+  "tags": ["apéro", "cocktail", "rum", "tropisch", "klassiker", "tiki"],
+  "favorit": false,
+  "portionen": 1,
+  "portionenEinheit": "Drink",
+  "aufwand": "einfach",
+  "zeit": {
+    "vorbereitung": 5,
+    "gesamt": 5
+  },
+  "zutaten": [
+    {
+      "gruppe": "Drink",
+      "items": [
+        { "menge": 4.5, "einheit": "cl", "name": "Aged Rum (oder Blend weiss/dunkel)", "abteilung": "Getränke" },
+        { "menge": 1.5, "einheit": "cl", "name": "Orange Curaçao", "abteilung": "Getränke" },
+        { "menge": 1.5, "einheit": "cl", "name": "Orgeat (Mandelsirup)", "abteilung": "Getränke" },
+        { "menge": 2.25, "einheit": "cl", "name": "Frischer Limettensaft (~1 Limette)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 0.75, "einheit": "cl", "name": "Zuckersirup", "abteilung": "Grundnahrungsmittel" }
+      ]
+    },
+    {
+      "gruppe": "Garnitur & Eis",
+      "items": [
+        { "menge": 1, "einheit": "Stück", "name": "Frische Limette (für Saft + Schale)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "Zweig", "name": "Frische Minze", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "Schaufel", "name": "Crushed Ice", "abteilung": "Sonstiges" },
+        { "menge": 1, "einheit": "cl", "name": "Dunkler Rum für den Float (optional)", "abteilung": "Getränke" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Limette frisch auspressen — abgepackter Saft schmeckt flach und säuerlich-metallisch.",
+    "Alle Zutaten (Rum, Curaçao, Orgeat, Limettensaft, Zuckersirup) in einen Shaker mit einer grosszügigen Schaufel crushed ice geben.",
+    "Kräftig shaken bis der Shaker aussen vereist (10-15 Sek) — kalt und gut verdünnt.",
+    "In ein Tumbler-Glas mit frischem crushed ice abseihen — Eis verdrängt die Flüssigkeit, gibt das klassische Tiki-Aussehen.",
+    "Optional Float: 1 cl dunklen Rum vorsichtig über einen Barlöffel ins Glas giessen — schwimmt als dunkle Schicht oben.",
+    "Garnitur: Minzzweig zwischen den Eishandfläche andrücken um Aroma freizusetzen, ins Glas stecken. Limettenschalenstreifen am Glasrand abdrehen damit das ätherische Öl auf den Drink fällt, dann in den Drink legen.",
+    "Sofort servieren — Mai Tai ist ein Hot-and-Now-Cocktail."
+  ],
+  "tipps": [
+    "Aged Rum (z.B. Appleton Estate, El Dorado) statt weissem macht den klassischen Mai Tai. Reiner weisser Rum schmeckt flach.",
+    "Orgeat selber machen lohnt sich — Premium-Marken: BG Reynolds, Small Hand Foods.",
+    "Zuckersirup 2:1 (2 Teile Zucker, 1 Teil Wasser) statt 1:1 — weniger Verdünnung, mehr Süsse.",
+    "Crushed Ice ist Pflicht — Würfel verdünnen zu langsam und der Drink wird flach.",
+    "Pro 2 Personen einmal ansetzen — bei mehr verliert der Shake die Kraft."
+  ],
+  "notizen": "Klassischer Tiki-Cocktail, perfekter Apéro vor Thai-Menü oder Sommer-BBQ."
+}

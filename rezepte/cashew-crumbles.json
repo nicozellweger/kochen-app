@@ -1,0 +1,37 @@
+{
+  "id": "cashew-crumbles",
+  "titel": "Cashew-Crumbles (Topping)",
+  "kategorie": "Grundrezept",
+  "tags": ["topping", "cashew", "asia", "schnell", "vegetarisch", "grundrezept"],
+  "favorit": false,
+  "portionen": 5,
+  "portionenEinheit": "Portionen",
+  "aufwand": "einfach",
+  "zeit": {
+    "vorbereitung": 5,
+    "gesamt": 8
+  },
+  "zutaten": [
+    {
+      "gruppe": "Topping",
+      "items": [
+        { "menge": 80, "einheit": "g", "name": "Cashews ungesalzen", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "Prise", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "TL", "name": "Brauner Zucker", "abteilung": "Grundnahrungsmittel" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Cashews in einer trockenen Pfanne bei mittlerer Hitze 3-4 Min unter ständigem Schwenken goldbraun rösten. Fertig wenn sie nussig duften und leicht ölig glänzen — Aufpassen, von goldbraun zu verbrannt geht in 30 Sek.",
+    "Sofort in eine Schüssel umfüllen — in der heissen Pfanne rösten sie nach und verbrennen.",
+    "Mit dem Messer auf einem Brett grob hacken — ungleichmässige Stücke geben mehr Textur als gleichmässig fein.",
+    "Mit einer Prise Salz und 1 TL braunem Zucker in einer Schüssel mischen.",
+    "Beim Anrichten kurz vor dem Servieren grosszügig auf das Fleisch oder Gemüse streuen."
+  ],
+  "tipps": [
+    "Hält in einem luftdichten Glas 2-3 Wochen — auf Vorrat machen lohnt sich.",
+    "Salzige Variante ohne Zucker passt zu Gemüse-Bowls.",
+    "Mit etwas Chiliflocken im Mix wird's eine Crunch-Topping mit Kick."
+  ],
+  "notizen": "Schneller Crunch-Topping für Thai-Gerichte, asiatische Bowls, Salate. Passt zu Rindsbäggli mit Massaman."
+}

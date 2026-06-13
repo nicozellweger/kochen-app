@@ -1,0 +1,57 @@
+{
+  "id": "tom-kha-gai",
+  "titel": "Tom Kha Gai (Thai Kokossuppe)",
+  "kategorie": "Vorspeise",
+  "tags": ["vorspeise", "suppe", "thai", "kokosmilch", "asia", "scharf", "huhn"],
+  "favorit": false,
+  "portionen": 5,
+  "portionenEinheit": "Portionen",
+  "aufwand": "mittel",
+  "zeit": {
+    "vorbereitung": 15,
+    "gesamt": 50
+  },
+  "zutaten": [
+    {
+      "gruppe": "Brühe-Basis",
+      "items": [
+        { "menge": 1, "einheit": "Stück", "name": "Kokosmilch vollfett (Dose à 400 ml)", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 700, "einheit": "ml", "name": "Hühnerbrühe", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 5, "einheit": "Scheibe", "name": "Galgant (KEIN Ingwer — Galgant ist anders, blumig-zitronig)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 2, "einheit": "Stange", "name": "Zitronengras (gequetscht, in Stücke)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 5, "einheit": "Stück", "name": "Kaffir-Limettenblätter (eingerissen)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 2, "einheit": "Stück", "name": "Thai-Chili (ganz, gequetscht)", "abteilung": "Gemüse & Früchte" }
+      ]
+    },
+    {
+      "gruppe": "Einlage & Würze",
+      "items": [
+        { "menge": 350, "einheit": "g", "name": "Hähnchenbrust oder -schenkel (mundgerecht geschnitten)", "abteilung": "Fleisch & Fisch" },
+        { "menge": 150, "einheit": "g", "name": "Strohpilze oder Champignons (in Scheiben)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 2.5, "einheit": "EL", "name": "Fischsauce (aufgeteilt: 1 EL Anfang, 1.5 EL Ende)", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "EL", "name": "Palmzucker", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "EL", "name": "Nam Prik Pao (Thai Chili-Paste in Öl)", "abteilung": "Gewürze & Öle" },
+        { "menge": 4, "einheit": "EL", "name": "Limettensaft frisch (am Ende!)", "abteilung": "Gemüse & Früchte" },
+        { "menge": 1, "einheit": "Bund", "name": "Frischer Koriander zum Garnieren", "abteilung": "Gemüse & Früchte" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Galgant in Scheiben schneiden, Zitronengras mit der Messerrückseite quetschen und in 4 cm Stücke schneiden, Kaffir-Limettenblätter mit den Händen einreissen (Adern brechen — gibt Aroma frei), Thai-Chili mit der Messerflachseite anquetschen.",
+    "Hühnerbrühe in einen Topf giessen, Galgant, Zitronengras, Limettenblätter und Chili dazu. 10-15 Min sanft köcheln lassen — Aroma zieht in die Brühe. Fertig: Brühe duftet stark nach Zitrus und Anis.",
+    "Kokosmilch + Nam Prik Pao + Palmzucker + 1 EL Fischsauce einrühren. Auf niedriger Hitze sanft simmern lassen — NICHT stark kochen, sonst trennt sich die Kokosmilch und die Suppe wird flockig.",
+    "Hähnchen in mundgerechte Stücke schneiden, Pilze in Scheiben. Beides in die Suppe geben, 8-10 Min sanft pochieren. Hähnchen darf nicht überkochen, sonst wird's trocken — fertig sobald durch (Test: ein Stück halbieren, kein rosa mehr drin).",
+    "Vom Herd nehmen — wichtig, kein Limettensaft auf Hitze.",
+    "Restliche 1.5 EL Fischsauce + 4 EL frischen Limettensaft einrühren. Abschmecken — Balance prüfen: cremig / sauer / salzig / leicht süss / leicht scharf. Bei Bedarf mit Fischsauce, Limette oder Palmzucker nachjustieren.",
+    "In Suppenschalen anrichten, frischen Koriander darüberstreuen. Hinweis an die Gäste: Galgant, Zitronengras und Limettenblätter mitkochen aber NICHT mitessen — am Tellerrand parken oder vorher rausfischen."
+  ],
+  "tipps": [
+    "Galgant ist nicht Ingwer — Galgant ist blumig-zitronig-pfeffrig, Ingwer würde alles dominieren. Asia-Laden oder Migros Asien-Sortiment.",
+    "Kaffir-Limettenblätter und Zitronengras: TK-Variante geht auch wenn frisch nicht verfügbar.",
+    "Limettensaft NIE mitkochen — wird bitter und stinkig. Immer ganz am Schluss vom Herd.",
+    "Light-Kokosmilch funktioniert hier auch — Suppe wird ohnehin gestreckt mit Brühe.",
+    "Nam Prik Pao ist die geheime Zutat — gibt rauchige Tiefe und etwas Süsse.",
+    "Vegetarisch: Hähnchen weg, mehr Pilze + Tofu, Brühe durch Gemüsebrühe ersetzen. Fischsauce durch helle Sojasauce."
+  ],
+  "notizen": "Thai-Klassiker als leichte Vorspeise vor dem Hauptgang. Wärmt, schärft den Appetit, passt perfekt vor Rindsbäggli + Massaman."
+}

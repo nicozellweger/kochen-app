@@ -1,0 +1,59 @@
+{
+  "id": "kokos-gnocchi",
+  "titel": "Kokos-Gnocchi (gelb)",
+  "kategorie": "Beilage",
+  "tags": ["beilage", "thai", "kokos", "make-ahead", "tiefkühl", "asia", "vegetarisch"],
+  "favorit": false,
+  "portionen": 5,
+  "portionenEinheit": "Portionen (~30 Stück)",
+  "aufwand": "mittel",
+  "zeit": {
+    "vorbereitung": 45,
+    "gesamt": 240
+  },
+  "zutaten": [
+    {
+      "gruppe": "Teig",
+      "items": [
+        { "menge": 1, "einheit": "kg", "name": "Mehlig kochende Kartoffeln", "abteilung": "Gemüse & Früchte" },
+        { "menge": 250, "einheit": "g", "name": "Weissmehl", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 2, "einheit": "Stück", "name": "Eigelbe", "abteilung": "Milchprodukte" },
+        { "menge": 0.5, "einheit": "TL", "name": "Kurkuma", "abteilung": "Gewürze & Öle" },
+        { "menge": 3, "einheit": "EL", "name": "Kokosmilchpulver (KEIN flüssiges — Teig wird sonst zu nass)", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 50, "einheit": "g", "name": "Kokosraspeln (kurz trocken anröstet)", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "Prise", "name": "Salz", "abteilung": "Gewürze & Öle" },
+        { "menge": 1, "einheit": "Prise", "name": "Muskat (frisch gerieben)", "abteilung": "Gewürze & Öle" }
+      ]
+    },
+    {
+      "gruppe": "Anbraten & Topping",
+      "items": [
+        { "menge": 40, "einheit": "g", "name": "Butter (zum Braten)", "abteilung": "Milchprodukte" },
+        { "menge": 50, "einheit": "g", "name": "Kokosraspeln (goldbraun geröstet, als Topping)", "abteilung": "Grundnahrungsmittel" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Kartoffeln in der Schale in einem grossen Topf mit Salzwasser auf der Herdplatte weichkochen, ca. 25-35 Min je nach Grösse. Fertig wenn ein Messer mühelos eindringt.",
+    "Kartoffeln abgiessen, kurz ausdampfen lassen, dann noch warm pellen. Durch die Kartoffelpresse direkt auf eine bemehlte Arbeitsfläche oder ein Blech drücken — gleichmässige Schicht.",
+    "Vollständig auskühlen lassen — KRITISCH. Warme Kartoffelmasse zieht Mehl wie ein Schwamm und macht den Teig gummig.",
+    "Die 50 g Kokosraspeln (für den Teig) in einer trockenen Pfanne 1-2 Min hellgolden anrösten, sofort umfüllen. Die 50 g für das Topping separat goldbraun-tiefer rösten, ebenfalls sofort umfüllen — sonst verbrennen sie nach.",
+    "Eigelbe mit Kurkuma in einer kleinen Schüssel mit der Gabel verquirlen — Kurkuma färbt sich satt gelb-orange.",
+    "Auf der Arbeitsfläche: Mehl, Eigelb-Kurkuma-Mischung, Kokosmilchpulver, hellgoldene Kokosraspeln, Salz und Muskat zur Kartoffelmasse geben. Schnell mit den Händen zu einem Teig zusammenbringen — NICHT lange kneten, sonst wird er gummig. Fertig: gleichmässig gelb, weich, hält gerade so zusammen.",
+    "Probe-Gnocchi: 1 kleine Kugel formen, in sprudelndes Salzwasser geben. Fertig wenn sie aufschwimmt (1-2 Min) + 60 Sek. Aus dem Wasser nehmen, testen: hält gut zusammen → Teig ok. Zerfällt → 1 EL Mehl nachgeben, nochmal testen.",
+    "Teig in 4-6 Portionen teilen. Jede Portion auf bemehlter Fläche zu einer Rolle von ca. 2 cm Durchmesser ausrollen. Mit einem Spatel oder Messer in 2 cm Stücke schneiden — keine Rillen nötig, die Sauce haftet auch so.",
+    "Vorfrieren einlagig auf einem bemehlten Blech, 2-3 h im Tiefkühler. Dann in TK-Beutel umfüllen — so kleben sie später nicht zusammen.",
+    "Am Service-Tag: Gnocchi DIREKT aus dem TK portionsweise in sprudelndes Salzwasser geben — NICHT antauen lassen, sonst werden sie klebrig. Fertig wenn sie aufschwimmen + 60 Sek (insgesamt 4-5 Min).",
+    "Mit der Schaumkelle aus dem Wasser heben, etwas Kochwasser darf mitkommen. Direkt in eine grosse Pfanne mit geschmolzener Butter geben — einlagig, Pfanne NICHT überfüllen. Bei mittlerer Hitze 3-4 Min goldbraun anbraten, einmal vorsichtig wenden.",
+    "Auf vorgewärmten Tellern anrichten, die geröstete Kokosraspeln (Topping-Portion) grosszügig drüberstreuen."
+  ],
+  "tipps": [
+    "Mehlig kochende Kartoffeln (z.B. Bintje, Agria) sind Pflicht — festkochende geben zu viel Stärke ab und werden klebrig.",
+    "Kein flüssiges Kokosmilch im Teig — Pulver gibt Aroma ohne Feuchtigkeit, das ist entscheidend für die Textur.",
+    "Direkt aus dem TK kochen ist nicht optional — angetautes klebt zusammen und zerfällt.",
+    "Pfanne nicht überfüllen beim Anbraten — Gnocchi dampfen statt zu knuspern. Lieber in 2-3 Durchgängen.",
+    "Make-ahead-Tip: Teig + Gnocchi-Stücke bis zu 6 Wochen tiefgekühlt haltbar.",
+    "Passt perfekt zur Massaman-Sauce mit Rindsbäggli."
+  ],
+  "notizen": "Gelb-goldene Gnocchi mit Kokos-Aroma. Make-ahead-tauglich, am Service-Tag in wenigen Minuten fertig."
+}

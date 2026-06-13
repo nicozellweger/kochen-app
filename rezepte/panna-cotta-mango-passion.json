@@ -1,0 +1,57 @@
+{
+  "id": "panna-cotta-mango-passion",
+  "titel": "Panna Cotta mit Mango-Passion-Sauce",
+  "kategorie": "Dessert",
+  "tags": ["dessert", "italienisch", "make-ahead", "tropisch", "mango", "passionsfrucht", "klassiker"],
+  "favorit": false,
+  "portionen": 5,
+  "portionenEinheit": "Förmchen",
+  "aufwand": "einfach",
+  "zeit": {
+    "vorbereitung": 20,
+    "gesamt": 380
+  },
+  "zutaten": [
+    {
+      "gruppe": "Panna Cotta",
+      "items": [
+        { "menge": 500, "einheit": "ml", "name": "Vollrahm (35% Fett)", "abteilung": "Milchprodukte" },
+        { "menge": 250, "einheit": "ml", "name": "Vollmilch", "abteilung": "Milchprodukte" },
+        { "menge": 80, "einheit": "g", "name": "Zucker", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "Stück", "name": "Vanilleschote", "abteilung": "Gewürze & Öle" },
+        { "menge": 4, "einheit": "Stück", "name": "Gelatineblätter (Packungsangabe für 750 ml Flüssigkeit)", "abteilung": "Grundnahrungsmittel" }
+      ]
+    },
+    {
+      "gruppe": "Mango-Passion-Sauce",
+      "items": [
+        { "menge": 2, "einheit": "Stück", "name": "Reife Mangos", "abteilung": "Gemüse & Früchte" },
+        { "menge": 3, "einheit": "Stück", "name": "Passionsfrüchte", "abteilung": "Gemüse & Früchte" },
+        { "menge": 2, "einheit": "EL", "name": "Puderzucker", "abteilung": "Grundnahrungsmittel" },
+        { "menge": 1, "einheit": "Spritzer", "name": "Limettensaft", "abteilung": "Gemüse & Früchte" }
+      ]
+    }
+  ],
+  "schritte": [
+    "Gelatineblätter in einer kleinen Schüssel mit kaltem Wasser einweichen — 5 Min, bis sie weich und biegsam sind.",
+    "Vanilleschote mit einem scharfen Messer längs aufschneiden, Mark mit der Messerrückseite auskratzen.",
+    "Rahm, Milch, Zucker, Vanillemark und Schote in einem Topf bei mittlerer Hitze auf der Herdplatte langsam erwärmen. NICHT kochen — fertig wenn es leicht dampft und am Rand kleine Bläschen entstehen (ca. 80°C).",
+    "Topf vom Herd nehmen, Vanilleschote entfernen.",
+    "Gelatine mit den Händen kräftig ausdrücken und in die heisse Masse einrühren — mit Schwingbesen oder Spatel rühren bis komplett aufgelöst, keine Klümpchen mehr sichtbar.",
+    "Durch ein feines Sieb in 5 Förmchen (à 150 ml) oder hitzefeste Gläser giessen — fängt Vanillereste und mögliche Klümpchen.",
+    "Komplett abkühlen lassen (15-20 Min Raumtemperatur), dann mind. 6 h im Kühlschrank fest werden lassen. Fertig: Oberfläche wackelt nur noch leicht beim Anstossen, fest aber zart.",
+    "Mango-Passion-Sauce: Mangos schälen und in Würfel schneiden. Passionsfrüchte halbieren, das Mark mit dem Löffel ausschaben (Kerne inklusive).",
+    "Mangowürfel, Passionsfruchtmark, Puderzucker und einen Spritzer Limettensaft in einem kleinen Topf bei mittlerer Hitze 5 Min köcheln lassen — Fruchtsäfte treten aus, Sauce dickt leicht ein.",
+    "Mit dem Stabmixer pürieren — kurz, soll nicht ganz glatt sein, etwas Struktur ist gewollt.",
+    "Durch ein GROBES Sieb passieren — die schwarzen Passionsfrucht-Kerne grösstenteils zurückhalten, aber ein paar zurück in die Sauce geben (für die Optik). Sauce in eine Schüssel umfüllen und kühl stellen.",
+    "Servieren: Förmchen kurz (10 Sek) in eine Schüssel mit warmem Wasser tauchen, dann auf den Teller stürzen — Panna Cotta löst sich. Sauce grosszügig darüberlöffeln, ein paar Kerne und etwas frische Passionsfrucht obendrauf."
+  ],
+  "tipps": [
+    "Gelatine-Menge: 4 Blatt für 750 ml = perfekter Wackelpudding-Effekt. Mehr = zu fest, weniger = fliesst.",
+    "Vollrahm mit 35% Fett ist Pflicht — Halbrahm gibt eine wässrige Panna Cotta.",
+    "Bis zu 2 Tage im Voraus zubereitbar — Sauce sogar 3-4 Tage haltbar im Kühli.",
+    "Mango muss richtig reif sein (gibt auf Druck nach, intensiver Duft) — sonst schmeckt sie fad.",
+    "Wenn keine frischen Passionsfrüchte: 2-3 EL gefrorenes Passionsfruchtmark aus dem Asien-Laden geht auch."
+  ],
+  "notizen": "Tropische Variante der klassischen Panna Cotta — perfekter Abschluss zum Thai-Menü mit Rindsbäggli."
+}
